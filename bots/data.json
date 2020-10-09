@@ -3,161 +3,1456 @@
     "Question": "Subarray with given sum ",
     "Description": "Given an unsorted array A of size N of non-negative integers, find a continuous sub-array which adds to a given number S.",
     "link": "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0",
-    "Companys": "\n                        \n                           Adobe     Amazon     Facebook     FactSet     Google     Morgan Stanley     Visa     Zoho                          \n                    ",
-    "Tags": "\n                        \n                           Arrays     Prefix-sum     Searching     Sliding-window                          \n                    "
+    "Companys": "\n                           Adobe     Amazon     Facebook     FactSet     Google     Morgan Stanley     Visa     Zoho                          ",
+    "Tags": "\n                           Arrays     Prefix-sum     Searching     Sliding-window                          "
   },
   {
     "Question": "Count the triplets ",
     "Description": "Count the triplets ",
     "link": "https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1",
-    "Companys": "\n                        \n                           Amazon     Arcesium                          \n                    ",
-    "Tags": "\n                        \n                           Sorting     Two-pointer-algorithm                          \n                    "
+    "Companys": "\n                           Amazon     Arcesium                          ",
+    "Tags": "\n                           Sorting     Two-pointer-algorithm                          "
   },
   {
     "Question": "Kadane's Algorithm ",
     "Description": "Given an array arr of N integers. Find the contiguous sub-array with maximum sum.",
     "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
-    "Companys": "\n                        \n                           24*7 Innovation Labs     Accolite     Amazon     Citrix     D-E-Shaw     FactSet     Flipkart     Hike     Housing.com     MakeMyTrip     MetLife     Microsoft     Morgan Stanley     Ola Cabs     Oracle     OYO Rooms     Payu     Samsung     Snapdeal     Teradata     Visa     VMWare     Walmart     Zoho                          \n                    ",
-    "Tags": "\n                        \n                           Arrays     Dynamic Programming                          \n                    "
+    "Companys": "\n                           24*7 Innovation Labs     Accolite     Amazon     Citrix     D-E-Shaw     FactSet     Flipkart     Hike     Housing.com     MakeMyTrip     MetLife     Microsoft     Morgan Stanley     Ola Cabs     Oracle     OYO Rooms     Payu     Samsung     Snapdeal     Teradata     Visa     VMWare     Walmart     Zoho                          ",
+    "Tags": "\n                           Arrays     Dynamic Programming                          "
   },
   {
     "Question": "Missing number in array ",
     "Description": "Given an array C of size N-1 and given that there are numbers from 1 to N with one element missing, the missing number is to be found.",
     "link": "https://practice.geeksforgeeks.org/problems/missing-number-in-array/0",
-    "Companys": "\n                        \n                           Accolite     Adobe     Amazon     Cisco     D-E-Shaw     Intuit      Microsoft     Morgan Stanley     Ola Cabs     Payu     Qualcomm     Visa                          \n                    ",
-    "Tags": "\n                        \n                           Arrays     Bit Magic     Searching                          \n                    "
+    "Companys": "\n                           Accolite     Adobe     Amazon     Cisco     D-E-Shaw     Intuit      Microsoft     Morgan Stanley     Ola Cabs     Payu     Qualcomm     Visa                          ",
+    "Tags": "\n                           Arrays     Bit Magic     Searching                          "
   },
   {
     "Question": "Merge Without Extra Space ",
     "Description": "Given two sorted arrays arr1[] of size N and arr2[] of size M. Each array is sorted in non-decreasing order. Merge the two arrays into one sorted array in non-decreasing order without using any extra space.",
     "link": "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1",
-    "Companys": "\n                        \n                           Amazon     Amdocs     Brocade     FactSet     Goldman Sachs     Juniper Networks     Linkedin     Microsoft     Quikr     Snapdeal     Synopsys     Visa     Zoho                          \n                    ",
-    "Tags": "\n                        \n                           Arrays     Mathematical     Sorting                          \n                    "
+    "Companys": "\n                           Amazon     Amdocs     Brocade     FactSet     Goldman Sachs     Juniper Networks     Linkedin     Microsoft     Quikr     Snapdeal     Synopsys     Visa     Zoho                          ",
+    "Tags": "\n                           Arrays     Mathematical     Sorting                          "
   },
   {
     "Question": "Rearrange Array Alternately ",
     "Description": "Given a sorted array of positive integers. Your task is to rearrange  the array elements alternatively i.e first element should be max value, second should be min value, third should be second max, fourth should be second min and so on...",
     "link": "https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately/0/",
-    "Companys": "\n                        \n                           Zoho                          \n                    ",
-    "Tags": "\n                        \n                           Arrays                          \n                    "
+    "Companys": "\n                           Zoho                          ",
+    "Tags": "\n                           Arrays                          "
   },
   {
     "Question": "Number of pairs ",
     "Description": "Given two arrays X[] and Y[] of size M and N respectively. Find number of pairs such that xy > yx where x is an element from X[] and y is an element from Y[].",
     "link": "https://practice.geeksforgeeks.org/problems/number-of-pairs3422/1",
-    "Companys": "\n                        \n                           FactSet                          \n                    ",
-    "Tags": "\n                        \n                           Arrays     Sorting                          \n                    "
+    "Companys": "\n                           FactSet                          ",
+    "Tags": "\n                           Arrays     Sorting                          "
   },
   {
     "Question": "Inversion of array ",
     "Description": "Given an array of positive integers. The task is to find inversion count of array.",
     "link": "https://practice.geeksforgeeks.org/problems/inversion-of-array/0/",
-    "Companys": "\n                        \n                           Adobe     Amazon     BankBazaar     Flipkart     Microsoft     Myntra     Ola Cabs     Walmart                          \n                    ",
-    "Tags": "\n                        \n                           Arrays     Sorting                          \n                    "
+    "Companys": "\n                           Adobe     Amazon     BankBazaar     Flipkart     Microsoft     Myntra     Ola Cabs     Walmart                          ",
+    "Tags": "\n                           Arrays     Sorting                          "
   },
   {
     "Question": "Sort an array of 0s, 1s and 2s ",
     "Description": "Given an array A of size N containing 0s, 1s, and 2s; you need to sort the array in ascending order.",
     "link": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0",
-    "Companys": "\n                        \n                           Adobe     Amazon     Hike     MakeMyTrip     MAQ Software     Microsoft     Morgan Stanley     Ola Cabs     OYO Rooms     Paytm     Qualcomm     Samsung     SAP Labs     Snapdeal     Walmart     Yatra.com                          \n                    ",
-    "Tags": "\n                        \n                           Arrays     Sorting                          \n                    "
+    "Companys": "\n                           Adobe     Amazon     Hike     MakeMyTrip     MAQ Software     Microsoft     Morgan Stanley     Ola Cabs     OYO Rooms     Paytm     Qualcomm     Samsung     SAP Labs     Snapdeal     Walmart     Yatra.com                          ",
+    "Tags": "\n                           Arrays     Sorting                          "
   },
   {
     "Question": "Equilibrium point ",
     "Description": "Given an array A of N positive numbers. The task is to find the position where equilibrium first occurs in the array. Equilibrium position in an array is a position such that the sum of elements before it is equal to the sum of elements after it.",
     "link": "https://practice.geeksforgeeks.org/problems/equilibrium-point/0",
-    "Companys": "\n                        \n                           Accolite     Adobe     Amazon     Hike     Zoho                          \n                    ",
-    "Tags": "\n                        \n                           Arrays     Prefix-sum                          \n                    "
+    "Companys": "\n                           Accolite     Adobe     Amazon     Hike     Zoho                          ",
+    "Tags": "\n                           Arrays     Prefix-sum                          "
   },
   {
     "Question": "Leaders in an array ",
     "Description": "Given an array of positive integers. Your task is to find the leaders in the array.\nNote: An element of array is leader if it is greater than or equal to all the elements to its right side. Also, the rightmost element is always a leader. ",
     "link": "https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0",
-    "Companys": "\n                        \n                           Amazon     Payu     Samsung                          \n                    ",
-    "Tags": "\n                        \n                           Arrays     Searching                          \n                    "
+    "Companys": "\n                           Amazon     Payu     Samsung                          ",
+    "Tags": "\n                           Arrays     Searching                          "
   },
   {
     "Question": "Minimum Platforms ",
     "Description": "Given arrival and departure times of all trains that reach a railway station. Your task is to find the minimum number of platforms required for the railway station so that no train waits.",
     "link": "https://practice.geeksforgeeks.org/problems/minimum-platforms/0",
-    "Companys": "\n                        \n                           Accolite     Amazon     Boomerang Commerce     D-E-Shaw     Directi     Hike     Morgan Stanley     OYO Rooms     Paytm     Walmart     Zillious                          \n                    ",
-    "Tags": "\n                        \n                           Arrays     Greedy                          \n                    "
+    "Companys": "\n                           Accolite     Amazon     Boomerang Commerce     D-E-Shaw     Directi     Hike     Morgan Stanley     OYO Rooms     Paytm     Walmart     Zillious                          ",
+    "Tags": "\n                           Arrays     Greedy                          "
   },
   {
     "Question": "Reverse array in groups ",
     "Description": "Given an array arr[] of positive integers of size N. Reverse every sub-array of K group elements.",
     "link": "https://practice.geeksforgeeks.org/problems/reverse-array-in-groups/0",
-    "Companys": "\n                        \n                           Amazon                          \n                    ",
-    "Tags": "\n                        \n                           Arrays                          \n                    "
+    "Companys": "\n                           Amazon                          ",
+    "Tags": "\n                           Arrays                          "
   },
   {
     "Question": "Kth smallest element ",
     "Description": "Given an array arr[] and a number K where K is smaller than size of array, the task is to find the Kth smallest element in the given array. It is given that all array elements are distinct.",
     "link": "https://practice.geeksforgeeks.org/problems/kth-smallest-element/0",
-    "Companys": "\n                        \n                           ABCO     Accolite     Amazon     Cisco     Hike     Microsoft     Snapdeal     VMWare                          \n                    ",
-    "Tags": "\n                        \n                           Arrays     Searching     Sorting                          \n                    "
+    "Companys": "\n                           ABCO     Accolite     Amazon     Cisco     Hike     Microsoft     Snapdeal     VMWare                          ",
+    "Tags": "\n                           Arrays     Searching     Sorting                          "
   },
   {
     "Question": "Trapping Rain Water ",
     "Description": "Given an array arr[] of N non-negative integers representing height of blocks at index i as Ai where the width of each block is 1. Compute how much water can be trapped in between blocks after raining.\nStructure is like below:\n|  |\n|_|\nWe can trap 2 units of water in the middle gap.",
     "link": "https://practice.geeksforgeeks.org/problems/trapping-rain-water/0",
-    "Companys": "\n                        \n                           Accolite     Adobe     Amazon     Paytm     Payu                          \n                    ",
-    "Tags": "\n                        \n                           Arrays                          \n                    "
+    "Companys": "\n                           Accolite     Adobe     Amazon     Paytm     Payu                          ",
+    "Tags": "\n                           Arrays                          "
   },
   {
     "Question": "Pythagorean Triplet ",
     "Description": "Given an array arr of N integers, write a function that returns true if there is a triplet (a, b, c) that satisfies a2 + b2 = c2, otherwise false.",
     "link": "https://practice.geeksforgeeks.org/problems/pythagorean-triplet3018/1",
-    "Companys": "\n                        \n                           Amazon                          \n                    ",
-    "Tags": "\n                        \n                           Arrays                          \n                    "
+    "Companys": "\n                           Amazon                          ",
+    "Tags": "\n                           Arrays                          "
   },
   {
     "Question": "Chocolate Distribution Problem ",
     "Description": "Given an array A of positive integers of size N, where each value represents number of chocolates in a packet. Each packet can have variable number of chocolates. There are M students, the task is to distribute chocolate packets such that :",
     "link": "https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0",
-    "Companys": "\n                        \n                           Flipkart                          \n                    ",
-    "Tags": "\n                        \n                           Sorting                          \n                    "
+    "Companys": "\n                           Flipkart                          ",
+    "Tags": "\n                           Sorting                          "
   },
   {
     "Question": "Stock buy and sell ",
     "Description": "The cost of stock on each day is given in an array A[] of size N. Find all the days on which you buy and sell the stock so that in between those days your profit is maximum.",
     "link": "https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0",
-    "Companys": "\n                        \n                           Accolite     Amazon     D-E-Shaw     Directi     Facebook     Flipkart     Goldman Sachs     Hike     Intuit      MakeMyTrip     Microsoft     Morgan Stanley     Ola Cabs     Oracle     Paytm     Pubmatic     Quikr     Salesforce     Samsung     SAP Labs     Sapient     Swiggy     Walmart                          \n                    ",
-    "Tags": "\n                        \n                           Arrays                          \n                    "
+    "Companys": "\n                           Accolite     Amazon     D-E-Shaw     Directi     Facebook     Flipkart     Goldman Sachs     Hike     Intuit      MakeMyTrip     Microsoft     Morgan Stanley     Ola Cabs     Oracle     Paytm     Pubmatic     Quikr     Salesforce     Samsung     SAP Labs     Sapient     Swiggy     Walmart                          ",
+    "Tags": "\n                           Arrays                          "
   },
   {
     "Question": "Element with left side smaller and right side greater ",
     "Description": "Given an unsorted array of size N. Find the first element in array such that all of its left elements are smaller and all right elements to it are greater than it.\n\nNote: Left and right side elements can be equal to required element. And extreme elements cannot be required element.",
     "link": "https://practice.geeksforgeeks.org/problems/unsorted-array/0",
-    "Companys": "\n                        \n                           Amazon     Intuit      OYO Rooms     Zoho                          \n                    ",
-    "Tags": "\n                        \n                           Arrays                          \n                    "
+    "Companys": "\n                           Amazon     Intuit      OYO Rooms     Zoho                          ",
+    "Tags": "\n                           Arrays                          "
   },
   {
     "Question": "Convert array into Zig-Zag fashion ",
     "Description": "Given an array Arr (distinct elements) of size N. Rearrange the elements of array in zig-zag fashion. The converted array should be in form a < b > c < d > e < f. The relative order of elements is same in the output i.e you have to iterate on the original array only.",
     "link": "https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/1",
-    "Companys": "\n                        \n                           Amazon     Paytm                          \n                    ",
-    "Tags": "\n                        \n                           Arrays                          \n                    "
+    "Companys": "\n                           Amazon     Paytm                          ",
+    "Tags": "\n                           Arrays                          "
   },
   {
     "Question": "Last index of One ",
     "Description": "Given a string S consisting only '0's and '1's,  print the last index of the '1' present in it.",
     "link": "https://practice.geeksforgeeks.org/problems/last-index-of-1/0",
-    "Companys": "\n                        \n                           InMobi                          \n                    ",
-    "Tags": "\n                        \n                           Arrays     Searching                          \n                    "
+    "Companys": "\n                           InMobi                          ",
+    "Tags": "\n                           Arrays     Searching                          "
   },
   {
     "Question": "Spirally traversing a matrix ",
     "Description": "Given a matrix mat[][] of size M*N. Traverse and print the matrix in spiral form.",
     "link": "https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0",
-    "Companys": "\n                        \n                           Accolite     Adobe     Amazon     BrowserStack     D-E-Shaw     FactSet     MakeMyTrip     MAQ Software     Microsoft     Morgan Stanley     Nagarro     Nearbuy     Oracle     OYO Rooms     Paytm     Salesforce     Snapdeal     Zoho                          \n                    ",
-    "Tags": "\n                        \n                           Arrays     Matrix                          \n                    "
+    "Companys": "\n                           Accolite     Adobe     Amazon     BrowserStack     D-E-Shaw     FactSet     MakeMyTrip     MAQ Software     Microsoft     Morgan Stanley     Nagarro     Nearbuy     Oracle     OYO Rooms     Paytm     Salesforce     Snapdeal     Zoho                          ",
+    "Tags": "\n                           Arrays     Matrix                          "
   },
   {
     "Question": "Largest Number formed from an Array ",
     "Description": "Given a list of non negative integers, arrange them in such a manner that they form the largest number possible.The result is going to be very large, hence return the result in the form of a string.",
     "link": "https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1",
-    "Companys": "\n                        \n                           Amazon     MakeMyTrip     Microsoft     Paytm     Zoho                          \n                    ",
-    "Tags": "\n                        \n                           Arrays                          \n                    "
+    "Companys": "\n                           Amazon     MakeMyTrip     Microsoft     Paytm     Zoho                          ",
+    "Tags": "\n                           Arrays                          "
+  },
+  {
+    "Question": "Reverse words in a given string ",
+    "Description": "Given a String of length S, reverse the whole string without reversing the individual words in it. Words are separated by dots.",
+    "link": "https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0",
+    "Companys": "\n                           Accolite     Adobe     Amazon     Cisco     Goldman Sachs     MakeMyTrip     MAQ Software     Microsoft     Morgan Stanley     Ola Cabs     Paytm     Samsung     SAP Labs     Walmart     Wipro     Zoho                          ",
+    "Tags": "\n                           Strings                          "
+  },
+  {
+    "Question": "Permutations of a given string ",
+    "Description": "Given a string S. The task is to print all permutations of a given string.",
+    "link": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
+    "Companys": "\n                           Accolite     Amazon     Cisco     Citrix     MAQ Software     OYO Rooms     Samsung     Snapdeal     Walmart     Zoho                          ",
+    "Tags": "\n                           Recursion     Strings                          "
+  },
+  {
+    "Question": "Longest Palindrome in a String ",
+    "Description": "Given a string S, find the longest palindromic substring in S. Substring of string S:",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0",
+    "Companys": "\n                           Accolite     Amazon     Groupon     MakeMyTrip     Microsoft     Qualcomm     Samsung     Visa     Walmart     Zoho                          ",
+    "Tags": "\n                           Strings                          "
+  },
+  {
+    "Question": "Recursively remove all adjacent duplicates ",
+    "Description": "Given a string s, recursively remove adjacent duplicate characters from the string s. The output string should not have any adjacent duplicates.",
+    "link": "https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0",
+    "Companys": "\n                           Paytm     Samsung                          ",
+    "Tags": "\n                           Recursion     Strings                          "
+  },
+  {
+    "Question": "Check if string is rotated by two places ",
+    "Description": "Given two strings a and b. The task is to find if a string 'a' can be obtained by rotating another string 'b' by 2 places.",
+    "link": "https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places/0",
+    "Companys": "\n                           Accolite     Amazon                          ",
+    "Tags": "\n                           Strings                          "
+  },
+  {
+    "Question": "Roman Number to Integer ",
+    "Description": "Given an string in roman no format (s)  your task is to convert it to integer .\n\nInput:\nThe first line of each test case contains the no of test cases T. Then T test cases follow. Each test case contains a string s denoting the roman no.\n\nOutput:\nFor each test case in a new line print the integer representation of roman number s. \n\nConstraints:\n1<=T<=100\n1<=roman no range<4000\n\nExample:\nInput\n2\nV\nIII \nOutput\n5\n3",
+    "link": "https://practice.geeksforgeeks.org/problems/roman-number-to-integer/0",
+    "Companys": "\n                           Amazon     Facebook     Microsoft     Twitter     Zoho                          ",
+    "Tags": "\n                           Strings                          "
+  },
+  {
+    "Question": "Anagram ",
+    "Description": "Given two strings a and b consisting of lowercase characters. The task is to check whether two given strings are anagram of each other or not. An anagram of a string is another string that contains same characters, only the order of characters can be different. For example, “act” and “tac” are anagram of each other.",
+    "link": "https://practice.geeksforgeeks.org/problems/anagram/0",
+    "Companys": "\n                           Amazon     Goldman Sachs     Nagarro                          ",
+    "Tags": "\n                           Strings                          "
+  },
+  {
+    "Question": "Remove Duplicates ",
+    "Description": "Given a string without spaces, the task is to remove duplicates from it.",
+    "link": "https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1",
+    "Companys": "\n                           Microsoft                          ",
+    "Tags": "\n                           Strings                          "
+  },
+  {
+    "Question": "Form a palindrome ",
+    "Description": "Given a string, find the minimum number of characters to be inserted to convert it to palindrome.",
+    "link": "https://practice.geeksforgeeks.org/problems/form-a-palindrome/0",
+    "Companys": "\n                           Airtel     Amazon     Google                          ",
+    "Tags": "\n                           Dynamic Programming     Strings                          "
+  },
+  {
+    "Question": "Longest Distinct characters in string ",
+    "Description": "Given a string S, find length of the longest substring with all distinct characters.  For example, for input \"abca\", the output is 3 as \"abc\" is the longest substring with all distinct characters.",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-distinct-characters-in-string/0",
+    "Companys": "\n                           Adobe     Amazon     Housing.com     Microsoft                          ",
+    "Tags": "\n                           Strings                          "
+  },
+  {
+    "Question": "Implement Atoi ",
+    "Description": "Your task  is to implement the function atoi. The function takes a string(str) as argument and converts it to an integer and returns it.",
+    "link": "https://practice.geeksforgeeks.org/problems/implement-atoi/1",
+    "Companys": "\n                           Adobe     Amazon     Code Brew     Microsoft     Morgan Stanley     Payu                          ",
+    "Tags": "\n                           Strings                          "
+  },
+  {
+    "Question": "Implement strstr ",
+    "Description": "Your task is to implement the function strstr. The function takes two strings as arguments (s,x) and  locates the occurrence of the string x in the string s. The function returns and integer denoting the first occurrence of the string x in s (0 based indexing).",
+    "link": "https://practice.geeksforgeeks.org/problems/implement-strstr/1",
+    "Companys": "\n                           Amazon     Facebook     Microsoft     Qualcomm                          ",
+    "Tags": "\n                           Strings                          "
+  },
+  {
+    "Question": "Longest Common Prefix in an Array ",
+    "Description": "Given a array of N strings, find the longest common prefix among all strings present in the array.",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array/0",
+    "Companys": "\n                           VMWare                          ",
+    "Tags": "\n                           Strings                          "
+  },
+  {
+    "Question": "Finding middle element in a linked list ",
+    "Description": "Given a singly linked list of N nodes. The task is to find the middle of the linked list. For example, if given linked list is 1->2->3->4->5 then the output should be 3.\nIf there are even nodes, then there would be two middle nodes, we need to print the second middle element. For example, if given linked list is 1->2->3->4->5->6 then the output should be 4.",
+    "link": "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1",
+    "Companys": "\n                           Adobe     Amazon     Flipkart     GE     Hike     IgniteWorld      MAQ Software     Microsoft     Morgan Stanley     Nagarro     Netskope      Payu     Qualcomm     Samsung     SAP Labs     Veritas     VMWare     Wipro     Zoho                          ",
+    "Tags": "\n                           Linked List                          "
+  },
+  {
+    "Question": "Reverse a linked list ",
+    "Description": "Given a linked list of N nodes. The task is to reverse this list.",
+    "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1",
+    "Companys": "\n                           Accolite     Adobe     Amazon     Cisco     Cognizant      D-E-Shaw     Goldman Sachs     IgniteWorld      Intuit      Mahindra Comviva     MakeMyTrip     Microsoft     Paytm     Qualcomm     Samsung     SAP Labs     Snapdeal      Tejas Network     Teradata     VMWare     Walmart     Zoho                          ",
+    "Tags": "\n                           Linked List                          "
+  },
+  {
+    "Question": "Rotate a Linked List ",
+    "Description": "Given a singly linked list of size N. The task is to rotate the linked list counter-clockwise by k nodes, where k is a given positive integer smaller than or equal to length of the linked list.",
+    "link": "https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1",
+    "Companys": "\n                           Accolite     Amazon     MakeMyTrip                          ",
+    "Tags": "\n                           Linked List                          "
+  },
+  {
+    "Question": "Reverse a Linked List in groups of given size. ",
+    "Description": "Given a linked list of size N. The task is to reverse every k nodes (where k is an input to the function) in the linked list.",
+    "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1",
+    "Companys": "\n                           Accolite     Adobe     Amazon     Goldman Sachs     Hike     MakeMyTrip     Microsoft     Paytm     SAP Labs     Snapdeal     VMWare     Walmart                          ",
+    "Tags": "\n                           Linked List                          "
+  },
+  {
+    "Question": "Intersection Point in Y Shapped Linked Lists ",
+    "Description": "Given two singly linked lists of size N and M, write a program to get the point where two linked lists intersect each other.",
+    "link": "https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1/",
+    "Companys": "\n                           Accolite     Adobe     Amazon     D-E-Shaw     FactSet     Flipkart     Goldman Sachs     MakeMyTrip     MAQ Software     Microsoft     Qualcomm     Snapdeal     Visa     VMWare                          ",
+    "Tags": "\n                           Linked List                          "
+  },
+  {
+    "Question": "Detect Loop in linked list ",
+    "Description": "Given a linked list of N nodes. The task is to check if the the linked list has a loop. Linked list can contain self loop.",
+    "link": "https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1",
+    "Companys": "\n                           Accolite     Amazon     D-E-Shaw     Hike     Lybrate     Mahindra Comviva     MakeMyTrip     MAQ Software     OYO Rooms     Paytm     Qualcomm     Samsung     SAP Labs     Snapdeal     Veritas     VMWare     Walmart                          ",
+    "Tags": "\n                           Linked List     Two-pointer-algorithm                          "
+  },
+  {
+    "Question": "Remove loop in Linked List ",
+    "Description": "You are given a linked list of N nodes. The task is to remove the loop from the linked list, if present. ",
+    "link": "https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1",
+    "Companys": "\n                           Adobe     Amazon     Goldman Sachs     Kuliza     MakeMyTrip     Microsoft     Morgan Stanley     Netskope      Oracle     Qualcomm     Snapdeal     VMWare     Walmart                          ",
+    "Tags": "\n                           Linked List     Two-pointer-algorithm                          "
+  },
+  {
+    "Question": "Nth node from end of linked list ",
+    "Description": "Given a linked list consisting of L nodes and given a number N. The task is to find the Nth node from the end of the linked list.",
+    "link": "https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1",
+    "Companys": "\n                           Accolite     Adobe     Amazon     Citicorp     Epic Systems     FactSet     Hike     MAQ Software     Monotype Solutions     Morgan Stanley     OYO Rooms     Qualcomm     Samsung     Snapdeal                          ",
+    "Tags": "\n                           Linked List                          "
+  },
+  {
+    "Question": "Flattening a Linked List ",
+    "Description": "Given a Linked List of size N, where every node represents a linked list and contains two pointers of its type:\n(i) a next pointer to the next node,\n(ii) a bottom pointer to a linked list where this node is head.",
+    "link": "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+    "Companys": "\n                           24*7 Innovation Labs     Amazon     Drishti-Soft     Flipkart     Goldman Sachs     Microsoft     Paytm     Payu     Qualcomm     Snapdeal     Visa                          ",
+    "Tags": "\n                           Linked List                          "
+  },
+  {
+    "Question": "Merge two sorted linked lists ",
+    "Description": "Given two sorted linked lists consisting of N and M nodes respectively. The task is to merge both of the list (in-place) and return head of the merged list.",
+    "link": "https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1",
+    "Companys": "\n                           Accolite     Amazon     Belzabar     Brocade     FactSet     Flipkart     MakeMyTrip     Microsoft     OATS Systems     Oracle     Samsung     Synopsys     Zoho                          ",
+    "Tags": "\n                           Linked List                          "
+  },
+  {
+    "Question": "Intersection Point in Y Shapped Linked Lists ",
+    "Description": "Given two singly linked lists of size N and M, write a program to get the point where two linked lists intersect each other.",
+    "link": "https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1",
+    "Companys": "\n                           Accolite     Adobe     Amazon     D-E-Shaw     FactSet     Flipkart     Goldman Sachs     MakeMyTrip     MAQ Software     Microsoft     Qualcomm     Snapdeal     Visa     VMWare                          ",
+    "Tags": "\n                           Linked List                          "
+  },
+  {
+    "Question": "Pairwise swap elements of a linked list ",
+    "Description": "Given a singly linked list of size N. The task is to swap elements in the linked list pairwise.\nFor example, if the input list is 1 2 3 4, the resulting list after swaps will be 2 1 4 3.",
+    "link": "https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1",
+    "Companys": "\n                           Amazon     Intuit      Microsoft     Moonfrog Labs                          ",
+    "Tags": "\n                           Linked List                          "
+  },
+  {
+    "Question": "Add two numbers represented by linked lists ",
+    "Description": "Given two numbers represented by two linked lists of size N and M. The task is to return a sum list. The sum list is a linked list representation of the addition of two input numbers.",
+    "link": "https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1",
+    "Companys": "\n                           Accolite     Amazon     Flipkart     MakeMyTrip     Microsoft     Morgan Stanley     Qualcomm     Snapdeal                          ",
+    "Tags": "\n                           Linked List                          "
+  },
+  {
+    "Question": "Check if Linked List is Palindrome ",
+    "Description": "Given a singly linked list of size N of integers. The task is to check if the given linked list is palindrome or not.",
+    "link": "https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1",
+    "Companys": "\n                           Accolite     Adobe     Amazon     KLA Tencor     Kritikal Solutions     Microsoft     Snapdeal     Yodlee Infotech                          ",
+    "Tags": "\n                           Linked List     Palindrome                          "
+  },
+  {
+    "Question": "Implement Queue using Linked List ",
+    "Description": "Implement a Queue using Linked List. \nA Query Q is of 2 Types\n(i) 1 x   (a query of this type means  pushing 'x' into the queue)\n(ii) 2     (a query of this type means to pop an element from the queue and print the poped element)",
+    "link": "https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1",
+    "Companys": " ",
+    "Tags": "\n                           Queue                          "
+  },
+  {
+    "Question": "Implement Stack using Linked List ",
+    "Description": "Let's give it a try! You have a linked list and you have to implement the functionalities push and pop of stack using this given linked list. Your task is to use the class as shown in the comments in the code editor and complete the functions push() and pop() to implement a stack. ",
+    "link": "https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1",
+    "Companys": "\n                           Codenation     FactSet     Microsoft     Samsung     SAP Labs                          ",
+    "Tags": "\n                           Linked List     Stack                          "
+  },
+  {
+    "Question": "Given a linked list of 0s, 1s and 2s, sort it. ",
+    "Description": "Given a linked list of N nodes where nodes can contain values 0s, 1s, and 2s only. The task is to segregate 0s, 1s, and 2s linked list such that all zeros segregate to head side, 2s at the end of the linked list, and 1s in the mid of 0s and 2s.",
+    "link": "https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
+    "Companys": "\n                           Amazon     MakeMyTrip     Microsoft                          ",
+    "Tags": "\n                           Linked List                          "
+  },
+  {
+    "Question": "Delete without head pointer ",
+    "Description": "You are given a pointer/ reference to the node which is to be deleted from the linked list of N nodes. The task is to delete the node. Pointer/ reference to head node is not given. ",
+    "link": "https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1",
+    "Companys": "\n                           Amazon     Goldman Sachs     Kritikal Solutions     Microsoft     Samsung     Visa                          ",
+    "Tags": "\n                           Linked List                          "
+  },
+  {
+    "Question": "Parenthesis Checker ",
+    "Description": "Given an expression string exp. Examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp.\nFor example, the program should print 'balanced' for exp = “[()]{}{[()()]()}” and 'not balanced' for exp = “[(])”",
+    "link": "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0",
+    "Companys": "\n                           Adobe     Amazon     Flipkart     Hike     Oracle     OYO Rooms     Snapdeal     Walmart     Wipro     Yatra.com     Zoho                          ",
+    "Tags": "\n                           Stack                          "
+  },
+  {
+    "Question": "Next larger element ",
+    "Description": "Given an array A of size N having distinct elements, the task is to find the next greater element for each element of the array in order of their appearance in the array. If no such element exists, output -1 ",
+    "link": "https://practice.geeksforgeeks.org/problems/next-larger-element/0",
+    "Companys": "\n                           Amazon     Flipkart     OYO Rooms     Samsung     Snapdeal     Zoho                          ",
+    "Tags": "\n                           Stack                          "
+  },
+  {
+    "Question": "Queue using two Stacks ",
+    "Description": "Implement a Queue using 2 stacks s1 and s2 .\nA Query Q is of 2 Types\n(i) 1 x (a query of this type means  pushing 'x' into the queue)\n(ii) 2   (a query of this type means to pop element from queue and print the poped element)",
+    "link": "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1",
+    "Companys": "\n                           Accolite     Adobe     Amazon     D-E-Shaw     Flipkart     Goldman Sachs     Hike     InfoEdge     InMobi     MakeMyTrip     MAQ Software     Microsoft     Morgan Stanley     Oracle     Walmart                          ",
+    "Tags": "\n                           Queue     Stack     STL                          "
+  },
+  {
+    "Question": "Stack using two queues ",
+    "Description": "Implement a Stack using two queues q1 and q2.",
+    "link": "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1",
+    "Companys": "\n                           Accolite     Adobe     Amazon     Cisco     CouponDunia     D-E-Shaw     Grofers     Kritikal Solutions     Oracle     OYO Rooms     Snapdeal                          ",
+    "Tags": "\n                           Queue     Stack                          "
+  },
+  {
+    "Question": "Get minimum element from stack ",
+    "Description": "You are given N elements and your task is to Implement a Stack in which you can get minimum element in O(1) time.",
+    "link": "https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1",
+    "Companys": "\n                           Amazon     D-E-Shaw     FactSet     Flipkart     Goldman Sachs     GreyOrange     Kuliza     Microsoft     One97     SAP Labs     Sapient     Snapdeal     Walmart                          ",
+    "Tags": "\n                           Stack                          "
+  },
+  {
+    "Question": "LRU Cache ",
+    "Description": "The task is to design and implement methods of an LRU cache. The class has two methods get() and set() which are defined as follows.\nget(x)   : Returns the value of the key x if the key exists in the cache otherwise returns -1.\nset(x,y) : inserts the value if the key x is not already present. If the cache reaches its capacity it should invalidate ",
+    "link": "https://practice.geeksforgeeks.org/problems/lru-cache/1",
+    "Companys": "\n                           Adobe     Amazon     Flipkart     Goldman Sachs     Hike     MakeMyTrip     Morgan Stanley     Ola Cabs     OYO Rooms     Paytm     Samsung     Snapdeal     Visa     Walmart     Yahoo     Zoho                          ",
+    "Tags": "\n                           Doubly-linked-list     Hash     Queue                          "
+  },
+  {
+    "Question": "Circular tour ",
+    "Description": "Suppose there is a circle. There are N petrol pumps on that circle. You will be given two sets of data.\n1. The amount of petrol that every petrol pump has.\n2. Distance from that petrol pump to the next petrol pump.\nFind a starting point where the truck can start to get through the complete circle without exhausting its petrol in between.",
+    "link": "https://practice.geeksforgeeks.org/problems/circular-tour/1",
+    "Companys": "\n                           Amazon     FactSet     Microsoft     Morgan Stanley     Zoho                          ",
+    "Tags": "\n                           Queue     Two-pointer-algorithm                          "
+  },
+  {
+    "Question": "First non-repeating character in a stream ",
+    "Description": "Given an input stream of N characters consisting only of lower case alphabets. The task is to find the first non repeating character, each time a character is inserted to the stream. If no non repeating element is found print -1.",
+    "link": "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0",
+    "Companys": "\n                           Adobe     Amazon     FactSet     Flipkart     Microsoft     Payu     Yahoo                          ",
+    "Tags": "\n                           Hash     Linked List     Queue                          "
+  },
+  {
+    "Question": "Rotten Oranges ",
+    "Description": "Given a matrix of dimension r*c where each cell in the matrix can have values 0, 1 or 2 which has the following meaning:",
+    "link": "https://practice.geeksforgeeks.org/problems/rotten-oranges/0",
+    "Companys": "\n                           Accolite     Amazon     MakeMyTrip     Microsoft     OYO Rooms     Samsung                          ",
+    "Tags": "\n                           Graph     Matrix     Queue                          "
+  },
+  {
+    "Question": "Maximum of all subarrays of size k ",
+    "Description": "Given an array A and an integer K. Find the maximum for each and every contiguous subarray of size K.",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0",
+    "Companys": "\n                           Amazon     Cisco     Directi     Flipkart     SAP Labs     Zoho                          ",
+    "Tags": "\n                           Arrays     Queue     Sliding-window                          "
+  },
+  {
+    "Question": "Left View of Binary Tree ",
+    "Description": "Given a Binary Tree, print Left view of it. Left view of a Binary Tree is set of nodes visible when tree is visited from Left side. The task is to complete the function leftView(), which accepts root of the tree as argument.",
+    "link": "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
+    "Companys": "\n                           Accolite     Amazon     Flipkart     Knowlarity     MakeMyTrip     Ola Cabs     Open Solutions     OYO Rooms     Paytm     Qualcomm     Samsung     Snapdeal     Twitter                          ",
+    "Tags": "\n                           Tree                          "
+  },
+  {
+    "Question": "Check for BST ",
+    "Description": "Given a binary tree. Check whether it is a BST or not.",
+    "link": "https://practice.geeksforgeeks.org/problems/check-for-bst/1",
+    "Companys": "\n                           Accolite     Adobe     Amazon     Boomerang Commerce     FactSet     Flipkart     Goldman Sachs     GreyOrange     Hike     Linkedin     MakeMyTrip     MAQ Software     Microsoft     Ola Cabs     OYO Rooms     Qualcomm     Samsung     Snapdeal     VMWare     Walmart     Wooker                          ",
+    "Tags": "\n                           Binary Search Tree     Tree                          "
+  },
+  {
+    "Question": "Bottom View of Binary Tree ",
+    "Description": "Given a binary tree, print the bottom view from left to right.\nA node is included in bottom view if it can be seen when we look at the tree from bottom.",
+    "link": "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+    "Companys": "\n                           Accolite     Amazon     CouponDunia     Flipkart     OYO Rooms     Paytm     Walmart                          ",
+    "Tags": "\n                           Tree                          "
+  },
+  {
+    "Question": "Vertical Traversal of Binary Tree ",
+    "Description": "Given a Binary Tree, find the vertical traversal of it starting from the leftmost level to the rightmost level.\nIf there are multiple nodes passing through a vertical line, then they should be printed as they appear in level order traversal of the tree.",
+    "link": "https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1",
+    "Companys": "\n                           Accolite     Amazon     BrowserStack     Dell     Flipkart     Grofers     MakeMyTrip     Netskope      Walmart                          ",
+    "Tags": "\n                           Tree                          "
+  },
+  {
+    "Question": "Level order traversal in spiral form ",
+    "Description": "Complete the function to find spiral order traversal of a tree. For below tree, function should return 1, 2, 3, 4, 5, 6, 7.\n\n\n ",
+    "link": "https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1",
+    "Companys": "\n                           Accolite     Adobe     Amazon     Flipkart     Hike     Housing.com     MakeMyTrip     Microsoft     Morgan Stanley     Ola Cabs     Payu     Teradata     Walmart                          ",
+    "Tags": "\n                           Recursion     Stack     Tree                          "
+  },
+  {
+    "Question": "Connect Nodes at Same Level ",
+    "Description": "Connect Nodes at Same Level ",
+    "link": "https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1",
+    "Companys": "\n                           Accolite     Adobe     Amazon     Boomerang Commerce     Flipkart     Google     Microsoft     Ola Cabs     Oracle     OYO Rooms     Xome                          ",
+    "Tags": "\n                           Tree                          "
+  },
+  {
+    "Question": "Lowest Common Ancestor in a BST ",
+    "Description": "Given a Binary Search Tree (with all values unique) and two node values. Find the Lowest Common Ancestors of the two nodes in the BST.",
+    "link": "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1",
+    "Companys": "\n                           Accolite     Amazon     Flipkart     MAQ Software     Microsoft     Samsung     Synopsys                          ",
+    "Tags": "\n                           Binary Search Tree     Tree                          "
+  },
+  {
+    "Question": "Binary Tree to DLL ",
+    "Description": "Given a Binary Tree (BT), convert it to a Doubly Linked List(DLL) In-Place. The left and right pointers in nodes are to be used as previous and next pointers respectively in converted DLL. The order of nodes in DLL must be same as Inorder of the given Binary Tree. The first node of Inorder traversal (leftmost node in BT) must be the head node of the DLL.",
+    "link": "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1",
+    "Companys": "\n                           Accolite     Amazon     Goldman Sachs     Microsoft     Morgan Stanley     Salesforce     Snapdeal                          ",
+    "Tags": "\n                           Linked List     Tree                          "
+  },
+  {
+    "Question": "Determine if Two Trees are Identical ",
+    "Description": "Given two binary trees, the task is to find if both of them are identical or not. ",
+    "link": "https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1",
+    "Companys": "\n                           Amazon     Microsoft                          ",
+    "Tags": "\n                           Tree                          "
+  },
+  {
+    "Question": "Symmetric Tree ",
+    "Description": "Given a Binary Tree. Check whether it is Symmetric or not, i.e. whether the binary tree is a Mirror image of itself or not.",
+    "link": "https://practice.geeksforgeeks.org/problems/symmetric-tree/1",
+    "Companys": "\n                           Amazon                          ",
+    "Tags": "\n                           Tree                          "
+  },
+  {
+    "Question": "Height of Binary Tree ",
+    "Description": "Given a binary tree, find its height.",
+    "link": "https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1",
+    "Companys": "\n                           Amazon     Cadence India     CouponDunia     D-E-Shaw     FactSet     FreeCharge     MakeMyTrip     Monotype Solutions     Snapdeal     Synopsys     Teradata     VMWare     Zoho                          ",
+    "Tags": "\n                           Tree                          "
+  },
+  {
+    "Question": "Maximum Path Sum between 2 Leaf Nodes ",
+    "Description": "Given a binary tree in which each node element contains a number. Find the maximum possible sum from one leaf node to another.",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-path-sum/1",
+    "Companys": "\n                           Accolite     Amazon     Directi     Facebook     FactSet     Microsoft     OYO Rooms                          ",
+    "Tags": "\n                           Tree                          "
+  },
+  {
+    "Question": "Diameter of Binary Tree ",
+    "Description": "Given a Binary Tree, find diameter of it.\nThe diameter of a tree is the number of nodes on the longest path between two leaves in the tree. The diagram below shows two trees each with diameter nine, the leaves that form the ends of a longest path are shaded (note that there is more than one path in each tree of length nine, but no path longer than nine nodes).",
+    "link": "https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1",
+    "Companys": "\n                           Amazon     Cadence India     Directi     MakeMyTrip     Microsoft     Oracle     OYO Rooms     Philips     PropTiger     Salesforce     Snapdeal     VMWare                          ",
+    "Tags": "\n                           Tree                          "
+  },
+  {
+    "Question": "Count Leaves in Binary Tree ",
+    "Description": "Given a Binary Tree of size N , You have to count leaves in it. For example, there are two leaves in following tree",
+    "link": "https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1",
+    "Companys": "\n                           Ola Cabs     Samsung                          ",
+    "Tags": "\n                           Tree                          "
+  },
+  {
+    "Question": "Check for Balanced Tree ",
+    "Description": "Given a binary tree, find if it is height balanced or not. \nA tree is height balanced if difference between heights of left and right subtrees is not more than one for all nodes of tree. ",
+    "link": "https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1",
+    "Companys": "\n                           Amazon     Walmart                          ",
+    "Tags": "\n                           Tree                          "
+  },
+  {
+    "Question": "Serialize and Deserialize a Binary Tree ",
+    "Description": "Serialization is to store a tree in an array so that it can be later restored and Deserialization is reading tree back from the array. Now your task is to complete the function serialize which stores the tree into an array A[ ] and deSerialize which deserializes the array to tree and returns it.\nNote: The structure of tree must be maintained.",
+    "link": "https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1",
+    "Companys": "\n                           Accolite     Adobe     Amazon     Flipkart     InMobi     Linkedin     MAQ Software     Microsoft     Paytm     Quikr     Yahoo                          ",
+    "Tags": "\n                           Tree                          "
+  },
+  {
+    "Question": "Find median in a stream ",
+    "Description": "Given an input stream of N integers. The task is to insert these numbers into a new stream and find the median of the stream formed by each insertion of X to the new stream.",
+    "link": "https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0",
+    "Companys": "\n                           Adobe     Amazon     Apple     Belzabar     D-E-Shaw     Facebook     FactSet     Flipkart     Google     Hike     Intuit      MAQ Software     Microsoft     Morgan Stanley     Ola Cabs     Oracle     OYO Rooms     Samsung     SAP Labs     Walmart     Yahoo                          ",
+    "Tags": "\n                           Heap                          "
+  },
+  {
+    "Question": "Heap Sort ",
+    "Description": "Given an array of size N. The task is to sort the array elements by completing functions heapify() and buildHeap() which are used to implement Heap Sort.",
+    "link": "https://practice.geeksforgeeks.org/problems/heap-sort/1",
+    "Companys": "\n                           24*7 Innovation Labs     Amazon     Belzabar     Intuit     Oracle     Samsung     SAP Labs     Visa                          ",
+    "Tags": "\n                           Heap     Sorting                          "
+  },
+  {
+    "Question": "Binary Heap Operations ",
+    "Description": "A binary heap is a Binary Tree with the following properties:\n1) It’s a complete tree (All levels are completely filled except possibly the last level and the last level has all keys as left as possible). This property of Binary Heap makes them suitable to be stored in an array.",
+    "link": "https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1",
+    "Companys": "\n                           Amazon     Ola Cabs     Samsung     Synopsys     Walmart                          ",
+    "Tags": "\n                           Heap                          "
+  },
+  {
+    "Question": "Rearrange characters ",
+    "Description": "Given a string S with repeated characters (only lowercase). The task is to rearrange characters in a string such that no two adjacent characters are same.",
+    "link": "https://practice.geeksforgeeks.org/problems/rearrange-characters/0",
+    "Companys": "\n                           Amazon                          ",
+    "Tags": "\n                           Heap     STL     Strings                          "
+  },
+  {
+    "Question": "Kth largest element in a stream ",
+    "Description": "Given an input stream of n integers, find the kth largest element for each element in the stream.",
+    "link": "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream/0",
+    "Companys": "\n                           Amazon     Cisco     Hike     OYO Rooms     Walmart                          ",
+    "Tags": "\n                           Heap                          "
+  },
+  {
+    "Question": "Merge K sorted linked lists ",
+    "Description": "Given K sorted linked lists of different sizes. The task is to merge them in such a way that after merging they will be a single sorted linked list.",
+    "link": "https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1",
+    "Companys": "\n                           Amazon     VMWare                          ",
+    "Tags": "\n                           Heap     Linked List                          "
+  },
+  {
+    "Question": "Kth largest element in a stream ",
+    "Description": "Given an input stream of n integers, find the kth largest element for each element in the stream.",
+    "link": "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream/0",
+    "Companys": "\n                           Amazon     Cisco     Hike     OYO Rooms     Walmart                          ",
+    "Tags": "\n                           Heap                          "
+  },
+  {
+    "Question": "Flood fill Algorithm ",
+    "Description": "Given a 2D screen, location of a pixel in the screen ie(x,y) and a color(K), your task is to replace color of the given pixel and all adjacent(excluding diagonally adjacent) same colored pixels with the given color K.",
+    "link": "https://practice.geeksforgeeks.org/problems/flood-fill-algorithm/0",
+    "Companys": "\n                           Google                          ",
+    "Tags": "\n                           Graph     Matrix     Recursion                          "
+  },
+  {
+    "Question": "Number of paths ",
+    "Description": "The problem is to count all the possible paths from top left to bottom right of a MxN matrix with the constraints that from each cell you can either move to right or down.",
+    "link": "https://practice.geeksforgeeks.org/problems/number-of-paths/0",
+    "Companys": "\n                           Amazon     Microsoft     Zoho                          ",
+    "Tags": "\n                           Recursion                          "
+  },
+  {
+    "Question": "Special Keyboard ",
+    "Description": "Imagine you have a special keyboard with the following keys: ",
+    "link": "https://practice.geeksforgeeks.org/problems/special-keyboard3018/1",
+    "Companys": "\n                           Amazon     Google     Paytm                          ",
+    "Tags": "\n                           Dynamic Programming     Recursion                          "
+  },
+  {
+    "Question": "Josephus problem ",
+    "Description": "Given the total number of persons n and a number k which indicates that k-1 persons are skipped and kth person is killed in circle in a fixed direction.â€‹\nThe task is to choose the safe place in the circle so that when you perform these operations starting from 1",
+    "link": "https://practice.geeksforgeeks.org/problems/josephus-problem/1",
+    "Companys": "\n                           Amazon     Walmart                          ",
+    "Tags": "\n                           Bit Magic     Recursion                          "
+  },
+  {
+    "Question": "Relative Sorting ",
+    "Description": "Given two arrays A1[] and A2[] of size N and M respectively. The task is to sort A1 in such a way that the relative order among the elements will be same as those in A2. For the elements not present in A2, append them at last in sorted order. It is also given that the number of elements in A2[] are smaller than or equal to number of elements in A1[] and A2[] has all distinct elements.",
+    "link": "https://practice.geeksforgeeks.org/problems/relative-sorting/0",
+    "Companys": "\n                           Amazon     Microsoft                          ",
+    "Tags": "\n                           Hash     Searching     Sorting                          "
+  },
+  {
+    "Question": "Sorting Elements of an Array by Frequency ",
+    "Description": "Given an array A[] of integers, sort the array according to frequency of elements. That is elements that have higher frequency come first. If frequencies of two elements are same, then smaller number comes first.",
+    "link": "https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0",
+    "Companys": "\n                           Oracle     Zoho     Zycus                          ",
+    "Tags": "\n                           Hash     Sorting                          "
+  },
+  {
+    "Question": "Largest subarray with 0 sum ",
+    "Description": "Given an array having both positive and negative integers. The task is to compute the length of the largest subarray with sum 0.",
+    "link": "https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1",
+    "Companys": "\n                           Amazon     MakeMyTrip                          ",
+    "Tags": "\n                           Arrays     Hash                          "
+  },
+  {
+    "Question": "Common elements ",
+    "Description": "Given three arrays sorted in increasing order. Find the elements that are common in all three arrays.\nNote: ",
+    "link": "https://practice.geeksforgeeks.org/problems/common-elements1132/1",
+    "Companys": "\n                           MAQ Software     Microsoft     VMWare                          ",
+    "Tags": "\n                           Searching                          "
+  },
+  {
+    "Question": "Find all four sum numbers ",
+    "Description": "Given an array A of size N, find all combination of four elements in the array whose sum is equal to a given value K. For example, if the given array is {10, 2, 3, 4, 5, 9, 7, 8} and K = 23, one of the quadruple is “3 5 7 8” (3 + 5 + 7 + 8 = 23).",
+    "link": "https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0",
+    "Companys": "\n                           Adobe     Amazon     Google     Microsoft     OYO Rooms                          ",
+    "Tags": "\n                           Hash     Sorting                          "
+  },
+  {
+    "Question": "Swapping pairs make sum equal ",
+    "Description": "Given two arrays of integers A[] and B[] of size N and M, the task is to check if a pair of values (one value from each array) exists such that swapping the elements of the pair will make the sum of two arrays equal.",
+    "link": "https://practice.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal4142/1",
+    "Companys": "\n                           Amazon                          ",
+    "Tags": "\n                           Arrays     Hash                          "
+  },
+  {
+    "Question": "Count distinct elements in every window ",
+    "Description": "Given an array of integers and a number K. Find the count of distinct elements in every window of size K in the array.",
+    "link": "https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1",
+    "Companys": "\n                           Accolite     Amazon     Microsoft                          ",
+    "Tags": "\n                           Hash     Sliding-window                          "
+  },
+  {
+    "Question": "Array Pair Sum Divisibility Problem ",
+    "Description": "Given an array of integers and a number k, write a function that returns true if given array can be divided into pairs such that sum of every pair is divisible by k.",
+    "link": "https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0",
+    "Companys": "\n                           Amazon     Directi     Goldman Sachs                          ",
+    "Tags": "\n                           Hash     STL                          "
+  },
+  {
+    "Question": "Longest consecutive subsequence ",
+    "Description": "Given an array arr[] of positive integers. Find the length of the longest sub-sequence such that elements in the subsequence are consecutive integers, the consecutive numbers can be in any order.",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0",
+    "Companys": "\n                           Amazon     Linkedin     Walmart     Zoho                          ",
+    "Tags": "\n                           Hash                          "
+  },
+  {
+    "Question": "Array Subset of another array ",
+    "Description": "Given two arrays: arr1[0..m-1] of size m and arr2[0..n-1] of size n. Task is to check whether arr2[] is a subset of arr1[] or not. Both the arrays can be both unsorted or sorted. It may be assumed that elements in both array are distinct.",
+    "link": "https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0",
+    "Companys": "\n                           Accolite     GE     Qualcomm                          ",
+    "Tags": "\n                           Arrays     Binary Search     Hash     Searching                          "
+  },
+  {
+    "Question": "Find all pairs with a given sum ",
+    "Description": "Given two unsorted arrays A of size N and B of size M of distinct elements, the task is to find all pairs from both arrays whose sum is equal to X.",
+    "link": "https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0",
+    "Companys": "\n                           Amazon     Facebook     United Health Group                          ",
+    "Tags": "\n                           Arrays     Hash                          "
+  },
+  {
+    "Question": "Find first repeated character ",
+    "Description": "Given a string S. The task is to find the first repeated character in it. We need to find the character that occurs more than once and whose index of second occurrence is smallest. S contains only lowercase letters.",
+    "link": "https://practice.geeksforgeeks.org/problems/find-first-repeated-character/0",
+    "Companys": "\n                           Amazon                          ",
+    "Tags": "\n                           Hash     Strings                          "
+  },
+  {
+    "Question": "Zero Sum Subarrays ",
+    "Description": "You are given an array of integers. You need to print the total count of sub-arrays having their sum equal to 0",
+    "link": "https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0",
+    "Companys": "\n                           Amazon     Microsoft     OYO Rooms                          ",
+    "Tags": "\n                           Arrays     Hash                          "
+  },
+  {
+    "Question": "Minimum indexed character ",
+    "Description": "Given a string str and another string patt. Find the character in patt that is present at the minimum index in str. If no character of patt is present in str then print ‘No character present’.",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-indexed-character/0",
+    "Companys": "\n                           Ola Cabs                          ",
+    "Tags": "\n                           Hash     STL     Strings                          "
+  },
+  {
+    "Question": "Check if two arrays are equal or not ",
+    "Description": "Given two arrays A and B of equal size, the task is to find if given arrays are equal or not. Two arrays are said to be equal if both of them contain same set of elements, arrangements (or permutation) of elements may be different though.\nNote : If there are repetitions, then counts of repeated elements must also be same for two array to be equal.",
+    "link": "https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not/0",
+    "Companys": "\n                           Goldman Sachs                          ",
+    "Tags": "\n                           Arrays     Hash     Sorting                          "
+  },
+  {
+    "Question": "Uncommon characters ",
+    "Description": "Given two strings A and B. Find the characters that are not common in the two strings. ",
+    "link": "https://practice.geeksforgeeks.org/problems/uncommon-characters4932/1",
+    "Companys": "\n                           Amazon                          ",
+    "Tags": "\n                           Hash     Strings                          "
+  },
+  {
+    "Question": "Smallest window in a string containing all the characters of another string ",
+    "Description": "Given a string S and text T. Output the smallest window in the string S having all characters of the text T. Both the string S and text T contains lowercase english alphabets.",
+    "link": "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0",
+    "Companys": "\n                           Amazon     FactSet     Google     MakeMyTrip     Streamoid Technologies     Visa                          ",
+    "Tags": "\n                           Hash     Sliding-window     Strings                          "
+  },
+  {
+    "Question": "First element to occur k times ",
+    "Description": "Given an array of N integers. The task is to find the first element that occurs K number of times. If no element occurs K times the print -1.",
+    "link": "https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times/0",
+    "Companys": " ",
+    "Tags": "\n                           Arrays     Hash                          "
+  },
+  {
+    "Question": "Check if frequencies can be equal ",
+    "Description": "Given a string s which contains only lower alphabetic characters, check if it is possible to remove at most one character from this string in such a way that frequency of each distinct character becomes same in the string.",
+    "link": "https://practice.geeksforgeeks.org/problems/check-frequencies4211/1",
+    "Companys": " ",
+    "Tags": "\n                           Hash     Strings                          "
+  },
+  {
+    "Question": "DFS of Graph ",
+    "Description": "Given a connected undirected graph. Perform a Depth First Traversal of the graph.",
+    "link": "https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1",
+    "Companys": "\n                           Accolite     Amazon     Intuit      Samsung                          ",
+    "Tags": "\n                           DFS     Graph                          "
+  },
+  {
+    "Question": "BFS of graph ",
+    "Description": "Given a directed graph. The task is to do Breadth First Search of this graph.",
+    "link": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
+    "Companys": "\n                           Adobe     Amazon     Flipkart     Microsoft     Ola Cabs     Samsung     SAP Labs                          ",
+    "Tags": "\n                           BFS     Graph                          "
+  },
+  {
+    "Question": "Detect cycle in an undirected graph ",
+    "Description": "Given a Undirected Graph. Check whether it contains a cycle or not. ",
+    "link": "https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1/",
+    "Companys": "\n                           Adobe     Amazon     Flipkart     MakeMyTrip     Oracle     Samsung                          ",
+    "Tags": "\n                           DFS     Graph     Union-find                          "
+  },
+  {
+    "Question": "Detect cycle in a directed graph ",
+    "Description": "Given a Directed Graph. Check whether it contains any cycle or not.",
+    "link": "https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1",
+    "Companys": "\n                           Adobe     Amazon     BankBazaar     Flipkart     Goldman Sachs     MakeMyTrip     Microsoft     Oracle     Rockstand     Samsung                          ",
+    "Tags": "\n                           Graph                          "
+  },
+  {
+    "Question": "Topological sort ",
+    "Description": "Given a Directed Graph. Find any Topological Sorting of that Graph.",
+    "link": "https://practice.geeksforgeeks.org/problems/topological-sort/1",
+    "Companys": "\n                           Accolite     Amazon     Flipkart     Microsoft     Moonfrog Labs     Morgan Stanley     OYO Rooms     Samsung     Visa                          ",
+    "Tags": "\n                           Graph                          "
+  },
+  {
+    "Question": "Find the number of islands ",
+    "Description": "Given a Matrix consisting of 0s and 1s. Find the number of islands of connected 1s present in the matrix. ",
+    "link": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
+    "Companys": "\n                           Amazon     Citrix     D-E-Shaw     Informatica     Intuit      Linkedin     Microsoft     Ola Cabs     One97     Opera     OYO Rooms     Paytm     Samsung     Snapdeal     Streamoid Technologies     Visa                          ",
+    "Tags": "\n                           DFS     Graph                          "
+  },
+  {
+    "Question": "Implementing Dijkstra | Set 1 (Adjacency Matrix) ",
+    "Description": "Given a graph of V nodes represented in the form of the adjacency matrix. The task is to find the shortest distance of all the vertex's from the source vertex.",
+    "link": "https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1",
+    "Companys": "\n                           Adobe     Cisco     Samsung     Vizury Interactive Solutions     Amazon                          ",
+    "Tags": "\n                           Graph     Greedy                          "
+  },
+  {
+    "Question": "Minimum Swaps to Sort ",
+    "Description": "Given an array of integers. Find the minimum number of swaps required to sort the array in non-decreasing order.",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-swaps/1",
+    "Companys": " ",
+    "Tags": "\n                           Arrays     Graph     Sorting                          "
+  },
+  {
+    "Question": "Strongly Connected Components (Kosaraju's Algo) ",
+    "Description": "Given a graph with N nodes and M directed edges. Your task is to complete the function kosaraju() which returns an integer denoting the number of strongly connected components in the graph.",
+    "link": "https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1",
+    "Companys": "\n                           Visa     Amazon                          ",
+    "Tags": "\n                           DFS     Graph                          "
+  },
+  {
+    "Question": "Shortest Source to Destination Path ",
+    "Description": "Given a boolean 2D matrix (0-based index), find whether there is path from (0,0) to (x,y) and if there is one path, print the minimum no of steps needed to reach it, else print -1 if the destination is not reachable. You may move in only four direction ie up, down, left and right. The path can only be created out of a cell if its value is 1.\n\nInput:\nThe first line of input contains an integer T denoting the no of test cases. Then T test cases follow. Each test case contains two lines . The first line of each test case contains two integers n and m denoting the size of the matrix. Then in the next line are n*m space separated values of the matrix. The following line after it contains two integers x and y denoting the index of the destination.\n\nOutput:\nFor each test case print in a new line the min no of steps needed to reach the destination.\n\nConstraints:\n1<=T<=100\n1<=n,m<=20\n\nExample:\nInput:\n2\n3 4\n1 0 0 0 1 1 0 1 0 1 1 1\n2 3\n3 4\n1 1 1 1 0 0 0 1 0 0 0 1\n0 3\nOutput:\n5\n3",
+    "link": "https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path/0",
+    "Companys": "\n                           Samsung                          ",
+    "Tags": "\n                           BFS     DFS     Graph     Matrix                          "
+  },
+  {
+    "Question": "Find whether path exist ",
+    "Description": "Given a N X N matrix (M) filled with 1, 0, 2, 3. The task is to find whether there is a path possible from source to destination, while traversing through blank cells only. You can traverse up, down, right and left.",
+    "link": "https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0",
+    "Companys": "\n                           Adobe     Amazon     Morgan Stanley     Samsung                          ",
+    "Tags": "\n                           BFS     Graph     Matrix                          "
+  },
+  {
+    "Question": "Minimum Cost Path ",
+    "Description": "Given a square grid of size N, each cell of which contains integer cost which represents a cost to traverse through that cell, we need to find a path from top left cell to bottom right cell by which total cost incurred is minimum. You can move in 4 directions : up, down, left an right.",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-cost-path/0",
+    "Companys": "\n                           Goldman Sachs     MakeMyTrip     Samsung                          ",
+    "Tags": "\n                           Dynamic Programming     Graph     Greedy                          "
+  },
+  {
+    "Question": "Circle of strings ",
+    "Description": "Given an array of strings A[], determine if the strings can be chained together to form a circle. A\nstring X can be chained together with another string Y if the last character of X is same as first\ncharacter of Y. If every string of the array can be chained, it will form a circle.",
+    "link": "https://practice.geeksforgeeks.org/problems/circle-of-strings/0",
+    "Companys": "\n                           Accolite     FactSet                          ",
+    "Tags": "\n                           Graph     Strings                          "
+  },
+  {
+    "Question": "Floyd Warshall ",
+    "Description": "The problem is to find shortest distances between every pair of vertices in a given edge weighted directed Graph. The Graph is represented as Adjancency Matrix, and the Matrix denotes the weight of the edegs (if it exists) else INF (1e7).\n\nInput:\nThe first line of input contains an integer T denoting the no of test cases. Then T test cases follow. The first line of each test case contains an integer V denoting the size of the adjacency matrix. The next V lines contain V space separated values of the matrix (graph). All input will be integer type.",
+    "link": "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall/0",
+    "Companys": "\n                           Samsung                          ",
+    "Tags": "\n                           Dynamic Programming     Graph                          "
+  },
+  {
+    "Question": "Alien Dictionary ",
+    "Description": "Given a sorted dictionary of an alien language having N words and k starting alphabets of standard dictionary. Find the order of characters in the alien language.\nNote: Many orders may be possible for a particular test case, thus you may return any valid order.",
+    "link": "https://practice.geeksforgeeks.org/problems/alien-dictionary/1",
+    "Companys": "\n                           Amazon     Google     Microsoft     OYO Rooms     Walmart                          ",
+    "Tags": "\n                           Graph     Sorting     Strings                          "
+  },
+  {
+    "Question": "Snake and Ladder Problem ",
+    "Description": "Given a snake and ladder board of order 5x6, find the minimum number of dice throws required to reach the destination or last cell (30th cell) from source (1st cell) . \n\nExample\n\n\n\n\nâ€‹For the above board output will be 3 \nFor 1st throw get a 2\nFor 2nd throw get a 6\nFor 3rd throw get a 2",
+    "link": "https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem/0",
+    "Companys": "\n                           Adobe     Amazon     Belzabar     Flipkart     MAQ Software     Nutanix     OYO Rooms     Zoho                          ",
+    "Tags": "\n                           BFS     DFS     Graph                          "
+  },
+  {
+    "Question": "Activity Selection ",
+    "Description": "Given N activities with their start and finish times. Select the maximum number of activities that can be performed by a single person, assuming that a person can only work on a single activity at a time.",
+    "link": "https://practice.geeksforgeeks.org/problems/activity-selection/0",
+    "Companys": "\n                           Facebook     Morgan Stanley                          ",
+    "Tags": "\n                           Greedy                          "
+  },
+  {
+    "Question": "N meetings in one room ",
+    "Description": "There is one meeting room in a firm. There are N meetings in the form of (S[i], F[i]) where S[i] is start time of meeting i and F[i] is finish time of meeting i.",
+    "link": "https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0",
+    "Companys": "\n                           Amazon     Flipkart     MakeMyTrip     Morgan Stanley     Visa                          ",
+    "Tags": "\n                           Greedy                          "
+  },
+  {
+    "Question": "Coin Piles ",
+    "Description": "There are N piles of coins each containing  Ai (1<=i<=N) coins.  Now, you have to adjust the number of coins in each pile such that for any two pile, if a be the number of coins in first pile and b is the number of coins in second pile then |a-b|<=K. In order to do that you can remove coins from different piles to decrease the number of coins in those piles but you cannot increase the number of coins in a pile by adding more coins. Now, given a value of N and K, along with the sizes of the N different piles you have to tell the minimum number of coins to be removed in order to satisfy the given condition.\nNote: You can also remove a pile by removing all the coins of that pile.",
+    "link": "https://practice.geeksforgeeks.org/problems/coin-piles/0",
+    "Companys": " ",
+    "Tags": "\n                           Greedy                          "
+  },
+  {
+    "Question": "Maximize Toys ",
+    "Description": "Given an array arr of length N consisting cost of toys. Given an integer K depicting the amount with you. The task is to Maximise the number of different toys you can have with K amount. ",
+    "link": "https://practice.geeksforgeeks.org/problems/maximize-toys0331/1",
+    "Companys": " ",
+    "Tags": "\n                           Greedy                          "
+  },
+  {
+    "Question": "Page Faults in LRU ",
+    "Description": "In operating systems that use paging for memory management, page replacement algorithm are needed to decide which page needs to be replaced when the new page comes in. Whenever a new page is referred and is not present in memory, the page fault occurs and Operating System replaces one of the existing pages with a newly needed page. Given a sequence of pages and memory capacity, your task is to find the number of page faults using Least Recently Used (LRU) Algorithm.",
+    "link": "https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0",
+    "Companys": " ",
+    "Tags": "\n                           Greedy     Operating Systems                          "
+  },
+  {
+    "Question": "Largest number possible ",
+    "Description": "Given two numbers 'N' and 'S' , find the largest number that can be formed with 'N' digits and whose sum of digits should be equals to 'S'.",
+    "link": "https://practice.geeksforgeeks.org/problems/largest-number-possible5028/1",
+    "Companys": " ",
+    "Tags": "\n                           Greedy     Mathematical                          "
+  },
+  {
+    "Question": "Minimize the heights ",
+    "Description": "Given an array arr[] denoting heights of N towers and a positive integer K, modify the heights of each tower either by increasing or decreasing them by K only once. Find out the minimum difference of the heights of shortest and longest modified towers.",
+    "link": "https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1",
+    "Companys": "\n                           Adobe                          ",
+    "Tags": "\n                           Arrays     Greedy                          "
+  },
+  {
+    "Question": "Minimize the sum of product ",
+    "Description": "You are given two arrays, A and B, of equal size N. The task is to find the minimum value of A[0] * B[0] + A[1] * B[1] +…+ A[N-1] * B[N-1], where shuffling of elements of arrays A and B is allowed.",
+    "link": "https://practice.geeksforgeeks.org/problems/minimize-the-sum-of-product/0",
+    "Companys": " ",
+    "Tags": "\n                           Arrays     Greedy     Sorting                          "
+  },
+  {
+    "Question": "Huffman Decoding-1 ",
+    "Description": "The task is to implement Huffman Encoding and Decoding.",
+    "link": "https://practice.geeksforgeeks.org/problems/huffman-decoding-1/1",
+    "Companys": " ",
+    "Tags": "\n                           Character Encoding     Greedy     Heap                          "
+  },
+  {
+    "Question": "Minimum Spanning Tree ",
+    "Description": "Given a weighted, undirected and connected graph. The task is to find the sum of weights of the edges of the Minimum Spanning Tree.",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1",
+    "Companys": "\n                           Amazon     Cisco     Samsung                          ",
+    "Tags": "\n                           Graph     Greedy                          "
+  },
+  {
+    "Question": "Shop in Candy Store ",
+    "Description": "In a candy store there are N different types of candies available  and the prices of all the N different types of candies are provided to you.\nYou are now provided with an attractive offer.\nYou can buy a single candy from the store and get atmost K other candies ( all are different types ) for free.\nNow you have to answer two questions. Firstly, you have to tell what is the minimum amount of money you have to spend to buy all the N different candies. Secondly, you have to tell what is the maximum amount of money you have to spend to buy all the N different candies.\nIn both the cases you must utilize the offer i.e. you buy one candy and get K other candies for free.",
+    "link": "https://practice.geeksforgeeks.org/problems/shop-in-candy-store/0",
+    "Companys": " ",
+    "Tags": "\n                           Greedy     Sorting                          "
+  },
+  {
+    "Question": "Geek collects the balls ",
+    "Description": "There are two parallel roads, each containing N and M buckets, respectively. Each bucket may contain some balls. The buckets on both roads are kept in such a way that they are sorted according to the number of balls in them. Geek starts from the end of the road which has the bucket with a lower number of balls(i.e. if buckets are sorted in increasing order, then geek will start from the left side of the road).\nThe geek can change the road only at the point of intersection(which means, buckets with the same number of balls on two roads). Now you need to help Geek to collect the maximum number of balls.",
+    "link": "https://practice.geeksforgeeks.org/problems/geek-collects-the-balls/0",
+    "Companys": " ",
+    "Tags": "\n                           Greedy                          "
+  },
+  {
+    "Question": "Minimum Operations ",
+    "Description": "Given a number N. Find the number of operations required to reach N starting from 0. You have 2 operations available:",
+    "link": "https://practice.geeksforgeeks.org/problems/find-optimum-operation4504/1",
+    "Companys": " ",
+    "Tags": "\n                           Dynamic Programming     Greedy                          "
+  },
+  {
+    "Question": "Max length chain ",
+    "Description": "You are given N pairs of numbers. In every pair, the first number is always smaller than the second number. A pair (c, d) can follow another pair (a, b) if b < c. Chain of pairs can be formed in this fashion. You have to find the longest chain which can be formed from the given set of pairs. ",
+    "link": "https://practice.geeksforgeeks.org/problems/max-length-chain/1",
+    "Companys": "\n                           Amazon                          ",
+    "Tags": "\n                           Dynamic Programming     Greedy                          "
+  },
+  {
+    "Question": "Longest Common Substring ",
+    "Description": "Given two strings X and Y. The task is to find the length of the longest common substring.",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-common-substring/0",
+    "Companys": "\n                           Amazon     Microsoft     Morgan Stanley                          ",
+    "Tags": "\n                           Dynamic Programming     Strings                          "
+  },
+  {
+    "Question": "Longest Increasing Subsequence ",
+    "Description": "Given a sequence A of size N, find the length of the longest increasing subsequence from a given sequence .\nThe longest increasing subsequence means to find a subsequence of a given sequence in which the subsequence's elements are in sorted order, lowest to highest, and in which the subsequence is as long as possible. This subsequence is not necessarily contiguous, or unique.",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0",
+    "Companys": "\n                           Amazon     BankBazaar     OYO Rooms     Paytm     Samsung     Zoho                          ",
+    "Tags": "\n                           Dynamic Programming                          "
+  },
+  {
+    "Question": "Longest Common Subsequence ",
+    "Description": "Given two sequences, find the length of longest subsequence present in both of them. Both the strings are of uppercase.",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0",
+    "Companys": "\n                           Amazon     Citrix     FactSet     Hike     MakeMyTrip     Paytm     VMWare                          ",
+    "Tags": "\n                           Dynamic Programming                          "
+  },
+  {
+    "Question": "0 - 1 Knapsack Problem ",
+    "Description": "You are given weights and values of N items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. Note that we have only one quantity of each item.\nIn other words, given two integer arrays val[0..N-1] and wt[0..N-1] which represent values and weights associated with N items respectively. Also given an integer W which represents knapsack capacity, find out the maximum value subset of val[] such that sum of the weights of this subset is smaller than or equal to W. You cannot break an item, either pick the complete item, or don’t pick it (0-1 property).",
+    "link": "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0",
+    "Companys": "\n                           Amazon     Directi     Flipkart     GreyOrange      MakeMyTrip     Microsoft     Mobicip     Morgan Stanley     Oracle     Payu     Snapdeal     Visa     Zoho                          ",
+    "Tags": "\n                           Dynamic Programming                          "
+  },
+  {
+    "Question": "Maximum sum increasing subsequence ",
+    "Description": "Given an array arr of N positive integers, the task is to find the maximum sum increasing subsequence of the given array.",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1",
+    "Companys": "\n                           Amazon     Morgan Stanley                          ",
+    "Tags": "\n                           Dynamic Programming                          "
+  },
+  {
+    "Question": "Minimum number of jumps ",
+    "Description": "Given an array of integers where each element represents the max number of steps that can be made forward from that element. The task is to find the minimum number of jumps to reach the end of the array (starting from the first element). If an element is 0, then cannot move through that element.",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0",
+    "Companys": "\n                           Adobe     Amazon     Housing.com     Moonfrog Labs     OYO Rooms     SAP Labs     Walmart                          ",
+    "Tags": "\n                           Dynamic Programming                          "
+  },
+  {
+    "Question": "Edit Distance ",
+    "Description": "Given two strings s and t. Find the minimum number of operations that need to be performed on str1 to convert it to str2. The possible operations are:",
+    "link": "https://practice.geeksforgeeks.org/problems/edit-distance3702/1",
+    "Companys": "\n                           Amazon     Goldman Sachs                          ",
+    "Tags": "\n                           Dynamic Programming                          "
+  },
+  {
+    "Question": "Coin Change ",
+    "Description": "Given a value N, find the number of ways to make change for N cents, if we have infinite supply of each of S = { S1, S2, .. , SM } valued coins. ",
+    "link": "https://practice.geeksforgeeks.org/problems/coin-change2448/1",
+    "Companys": "\n                           Accolite     Amazon     Microsoft     Morgan Stanley     OYO Rooms     Paytm     Samsung     Snapdeal                          ",
+    "Tags": "\n                           Dynamic Programming                          "
+  },
+  {
+    "Question": "Subset Sum Problem ",
+    "Description": "Given an array arr[] of size N, check if it can be partitioned into two parts such that the sum of elements in both parts is the same.",
+    "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+    "Companys": "\n                           Accolite     Adobe     Amazon     Drishti-Soft     OYO Rooms                          ",
+    "Tags": "\n                           Dynamic Programming     Subset                          "
+  },
+  {
+    "Question": "Box Stacking ",
+    "Description": "You are given a set of N types of rectangular 3-D boxes, where the ith box has height h, width w and length l. You task is to create a stack of boxes which is as tall as possible, but you can only stack a box on top of another box if the dimensions of the 2-D base of the lower box are each strictly larger than those of the 2-D base of the higher box. Of course, you can rotate a box so that any side functions as its base.It is also allowable to use multiple instances of the same type of box. You task is to complete the function maxHeight which returns the height of the highest possible stack so formed.",
+    "link": "https://practice.geeksforgeeks.org/problems/box-stacking/1",
+    "Companys": "\n                           Amazon     Codenation     Microsoft                          ",
+    "Tags": "\n                           Dynamic Programming                          "
+  },
+  {
+    "Question": "Maximize The Cut Segments ",
+    "Description": "Given an integer N denoting the Length of a line segment. you need to cut the line segment in such a way that the cut length of a line segment each time is integer either x , y or z. and after performing all cutting operation the total number of cutted segments must be maximum. ",
+    "link": "https://practice.geeksforgeeks.org/problems/cutted-segments/0",
+    "Companys": "\n                           Amazon     OYO Rooms                          ",
+    "Tags": "\n                           Dynamic Programming                          "
+  },
+  {
+    "Question": "Minimum sum partition ",
+    "Description": "Given an integer array arr of size N, the task is to divide it into two sets S1 and S2 such that the absolute difference between their sums is minimum and find the minimum difference",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1",
+    "Companys": "\n                           Amazon     Samsung                          ",
+    "Tags": "\n                           Dynamic Programming                          "
+  },
+  {
+    "Question": "Count number of hops ",
+    "Description": "A frog jumps either 1, 2 or 3 steps to go to top. In how many ways can it reach the top.",
+    "link": "https://practice.geeksforgeeks.org/problems/count-number-of-hops/0",
+    "Companys": "\n                           Amazon                          ",
+    "Tags": "\n                           Dynamic Programming                          "
+  },
+  {
+    "Question": "Egg Dropping Puzzle ",
+    "Description": "Suppose you have N eggs and you want to determine from which floor in a K-floor building you can drop an egg such that it doesn't break. You have to determine the minimum number of attempts you need in order find the critical floor in the worst case while using the best strategy.There are few rules given below. ",
+    "link": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0",
+    "Companys": "\n                           Amazon     D-E-Shaw     Goldman Sachs     Google     Hike     MakeMyTrip     MAQ Software     Myntra     Nearbuy     Opera     Oracle     Philips     Samsung     Service Now     Unisys     VMWare                          ",
+    "Tags": "\n                           Dynamic Programming                          "
+  },
+  {
+    "Question": "Optimal Strategy For A Game ",
+    "Description": "You are given an array A of size N. The array contains integers and is of even length. The elements of the array represent N coin of values V1, V2, ....Vn. You play against an opponent in an alternating way.",
+    "link": "https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game/0",
+    "Companys": "\n                           Amazon     Google     Hike     Linkedin     Microsoft     Salesforce                          ",
+    "Tags": "\n                           Dynamic Programming                          "
+  },
+  {
+    "Question": "Shortest Common Supersequence ",
+    "Description": "Given two strings str1 and str2, find the length of the smallest string which has both, str1 and str2 as its sub-sequences.\nNote: str1 and str2 can have both uppercase and lowercase letters.",
+    "link": "https://practice.geeksforgeeks.org/problems/shortest-common-supersequence/0",
+    "Companys": "\n                           Microsoft                          ",
+    "Tags": "\n                           Dynamic Programming     Strings                          "
+  },
+  {
+    "Question": "Find the element that appears once in sorted array ",
+    "Description": "Given a sorted array arr[] of size N. Find the element that appears only once in the array. All other elements appear exactly twice. ",
+    "link": "https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1",
+    "Companys": "\n                           Amazon     D-E-Shaw     Ola Cabs                          ",
+    "Tags": "\n                           Divide and Conquer     Searching                          "
+  },
+  {
+    "Question": "Search in a Rotated Array ",
+    "Description": "Given a sorted and rotated array A of N distinct elements which is rotated at some point, and given an element K. The task is to find the index of the given element K in the array A.",
+    "link": "https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0",
+    "Companys": "\n                           Adobe     Amazon     BankBazaar     D-E-Shaw     FactSet     Flipkart     Hike     Intuit      MakeMyTrip     Microsoft     Paytm     Snapdeal     Times Internet                          ",
+    "Tags": "\n                           Divide and Conquer     Searching                          "
+  },
+  {
+    "Question": "Binary Search ",
+    "Description": "Given a sorted array of integers and a key to be searched in the array. Print the position of the key in the array, if present. If it's not present in the array, report it. ",
+    "link": "https://practice.geeksforgeeks.org/problems/binary-search/1",
+    "Companys": "\n                           Accenture     Cognizant      Infosys     Linkedin     Oracle     Qualcomm     TCS     Wipro                          ",
+    "Tags": "\n                           Arrays     Divide and Conquer     Searching                          "
+  },
+  {
+    "Question": "Sum of Middle Elements of two sorted arrays ",
+    "Description": "Given 2 sorted arrays A and B of size N each. Print sum of middle elements of the array obtained after merging the given arrays.",
+    "link": "https://practice.geeksforgeeks.org/problems/sum-of-middle-elements-of-two-sorted-arrays/0",
+    "Companys": "\n                           Amazon     D-E-Shaw                          ",
+    "Tags": "\n                           Arrays     Divide and Conquer                          "
+  },
+  {
+    "Question": "Quick Sort ",
+    "Description": "Given an array of integers. Complete the partition() function used for the implementation of Quick Sort.",
+    "link": "https://practice.geeksforgeeks.org/problems/quick-sort/1",
+    "Companys": "\n                           Adobe     Amazon     Goldman Sachs     Grofers      Hike     HSBC     Ola Cabs     Qualcomm     Samsung     SAP Labs     Target Corporation     VMWare                          ",
+    "Tags": "\n                           Divide and Conquer     Sorting                          "
+  },
+  {
+    "Question": "Merge Sort ",
+    "Description": "The task is to complete merge() function which is used to implement Merge Sort.",
+    "link": "https://practice.geeksforgeeks.org/problems/merge-sort/1",
+    "Companys": "\n                           Amazon     Boomerang Commerce     Goldman Sachs     Grofers     Medlife      Microsoft     Oracle     Paytm     Qualcomm     Snapdeal     Target Corporation     Wipro                          ",
+    "Tags": "\n                           Divide and Conquer     Sorting                          "
+  },
+  {
+    "Question": "K-th element of two sorted Arrays ",
+    "Description": "Given two sorted arrays A and B of size M and N respectively and an element k. The task is to find the element that would be at the k’th position of the final sorted array.",
+    "link": "https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array/0",
+    "Companys": "\n                           Flipkart                          ",
+    "Tags": "\n                           Arrays     Divide and Conquer                          "
+  },
+  {
+    "Question": "N-Queen Problem ",
+    "Description": "The n-queens puzzle is the problem of placing n queens on an n×n chessboard such that no two queens attack each other. Given an integer n, print all distinct solutions to the n-queens puzzle. Each solution contains distinct board configurations of the n-queens’ placement, where the solutions are a permutation of [1,2,3..n] in increasing order, here the number in the ith place denotes that the ith-column queen is placed in the row with that number. For eg below figure represents a chessboard [3 1 4 2].\n\n\n\nInput:\nThe first line of input contains an integer T denoting the no of test cases. Then T test cases follow. Each test case contains an integer n denoting the size of the chessboard.",
+    "link": "https://practice.geeksforgeeks.org/problems/n-queen-problem/0",
+    "Companys": "\n                           Accolite     Amazon     Amdocs     D-E-Shaw     MAQ Software     Twitter     Visa                          ",
+    "Tags": "\n                           Backtracking                          "
+  },
+  {
+    "Question": "Solve the Sudoku ",
+    "Description": "Given an incomplete Sudoku configuration in terms of a 9 x 9  2-D square matrix (mat[][]). The task to print a solved Sudoku. For simplicity you may assume that there will be only one unique solution.\n\nSample Sudoku for you to get the logic for its solution:\n\n",
+    "link": "https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0",
+    "Companys": "\n                           Amazon     Directi     Flipkart     MakeMyTrip     MAQ Software     Microsoft     Ola Cabs     Oracle     PayPal     VMWare     Zoho                          ",
+    "Tags": "\n                           Backtracking     Matrix                          "
+  },
+  {
+    "Question": "Rat in a Maze Problem - I ",
+    "Description": "Consider a rat placed at (0, 0) in a square matrix of order N*N. It has to reach the destination at (N-1, N-1). Find all possible paths that the rat can take to reach from source to destination. The directions in which the rat can move are 'U'(up), 'D'(down), 'L' (left), 'R' (right). Value 0 at a cell in the matrix represents that it is blocked and cannot be crossed while value 1 at a cell in the matrix represents that it can be traveled through.",
+    "link": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+    "Companys": "\n                           Amazon                          ",
+    "Tags": "\n                           Backtracking                          "
+  },
+  {
+    "Question": "Word Boggle ",
+    "Description": "Given a dictionary, a method to do lookup in dictionary and a M x N board where every cell has one character. Find all possible words that can be formed by a sequence of adjacent characters. Note that we can move to any of 8 adjacent characters, but a word should not have multiple instances of same cell.",
+    "link": "https://practice.geeksforgeeks.org/problems/word-boggle/0",
+    "Companys": "\n                           Amazon     Directi     Facebook     Google     MakeMyTrip     Microsoft     Nvidia     Yahoo                          ",
+    "Tags": "\n                           Backtracking     BFS     DFS     Graph     Trie                          "
+  },
+  {
+    "Question": "Generate IP Addresses ",
+    "Description": "Given a string S containing only digits, Your task is to complete the function genIp() which returns a vector containing all possible combination of valid IPv4 ip address and takes only a string S as its only argument.\nNote : Order doesn't matter.\n\nFor string 11211 the ip address possible are \n1.1.2.11\n1.1.21.1\n1.12.1.1\n11.2.1.1",
+    "link": "https://practice.geeksforgeeks.org/problems/generate-ip-addresses/1",
+    "Companys": "\n                           Amazon                          ",
+    "Tags": "\n                           Backtracking     Strings                          "
+  },
+  {
+    "Question": "Find first set bit ",
+    "Description": "Given an integer an N. The task is to print the position of first set bit found from right side in the binary representation of the number.",
+    "link": "https://practice.geeksforgeeks.org/problems/find-first-set-bit/0",
+    "Companys": "\n                           Amazon                          ",
+    "Tags": "\n                           Bit Magic                          "
+  },
+  {
+    "Question": "Rightmost different bit ",
+    "Description": "Given two numbers M and N. The task is to find the position of rightmost different bit in binary representation of numbers.",
+    "link": "https://practice.geeksforgeeks.org/problems/rightmost-different-bit/0",
+    "Companys": " ",
+    "Tags": "\n                           Bit Magic                          "
+  },
+  {
+    "Question": "Check whether K-th bit is set or not ",
+    "Description": "Given a number N and a bit number K, check if Kth bit of N is set or not. A bit is called set if it is 1. Position of set bit '1' should be indexed starting with 0 from RSB side in binary representation of the number. Consider N = 4(100):  0th bit = 0, 1st bit = 0, 2nd bit = 1.",
+    "link": "https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not/0",
+    "Companys": "\n                           Cisco                          ",
+    "Tags": "\n                           Bit Magic                          "
+  },
+  {
+    "Question": "Toggle bits given range ",
+    "Description": "Given a non-negative number N and two values L and R. The problem is to toggle the bits in the range L to R in the binary representation of N, i.e, to toggle bits from the rightmost Lth bit to the rightmost Rth bit. A toggle operation flips a bit 0 to 1 and a bit 1 to 0. Print N after the bits are toggled.",
+    "link": "https://practice.geeksforgeeks.org/problems/toggle-bits-given-range0952/1",
+    "Companys": " ",
+    "Tags": "\n                           Bit Magic                          "
+  },
+  {
+    "Question": "Set kth bit ",
+    "Description": "Given a number N and a value K. From the right, set the Kth bit in the binary representation of N. The position of Least Significant Bit(or last bit) is 0, the second last bit is 1 and so on. ",
+    "link": "https://practice.geeksforgeeks.org/problems/set-kth-bit3724/1",
+    "Companys": "\n                           Cisco     Qualcomm                          ",
+    "Tags": "\n                           Bit Magic                          "
+  },
+  {
+    "Question": "Power of 2 ",
+    "Description": "Given a positive integer N. The task is to check if N is a power of 2. That is N is 2x for some x.",
+    "link": "https://practice.geeksforgeeks.org/problems/power-of-2/0",
+    "Companys": "\n                           Adobe     Amazon     BankBazaar     FactSet     Intel     Mallow Technologies     Microsoft     Oracle     Practo     Qualcomm     Samsung     SAP Labs                          ",
+    "Tags": "\n                           Bit Magic     Mathematical                          "
+  },
+  {
+    "Question": "Bit Difference ",
+    "Description": "You are given two numbers A and B. Write a program to count number of bits needed to be flipped to convert A to B.",
+    "link": "https://practice.geeksforgeeks.org/problems/bit-difference/0",
+    "Companys": "\n                           Amazon     Qualcomm     Samsung                          ",
+    "Tags": "\n                           Bit Magic                          "
+  },
+  {
+    "Question": "Rotate Bits ",
+    "Description": "Given an integer N and an integer D, you are required to write a program to rotate the binary representation of the integer N by D digits to the left as well as right and print the results in decimal values after each of the rotation.\nNote: Integer N is stored using 16 bits. i.e. 12 will be stored as 0000.....001100.",
+    "link": "https://practice.geeksforgeeks.org/problems/rotate-bits/0",
+    "Companys": " ",
+    "Tags": "\n                           Bit Magic     Strings                          "
+  },
+  {
+    "Question": "Swap all odd and even bits ",
+    "Description": "Given an unsigned integer N. The task is to swap all odd bits with even bits. For example, if the given number is 23 (00010111), it should be converted to 43(00101011). Here, every even position bit is swapped with adjacent bit on right side(even position bits are highlighted in binary representation of 23), and every odd position bit is swapped with adjacent on left side.",
+    "link": "https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits/0",
+    "Companys": " ",
+    "Tags": "\n                           Bit Magic                          "
+  },
+  {
+    "Question": "Count total set bits ",
+    "Description": "You are given a number N. Find the total count of set bits for all numbers from 1 to N(both inclusive).",
+    "link": "https://practice.geeksforgeeks.org/problems/count-total-set-bits/0",
+    "Companys": "\n                           Adobe     Amazon                          ",
+    "Tags": "\n                           Bit Magic                          "
+  },
+  {
+    "Question": "Longest Consecutive 1's ",
+    "Description": "Given a number N. The task is to find the length of the longest consecutive 1s in its binary representation.",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-consecutive-1s/0",
+    "Companys": "\n                           MAQ Software                          ",
+    "Tags": "\n                           Bit Magic                          "
+  },
+  {
+    "Question": "Number is sparse or not ",
+    "Description": "Given a number N, check whether it is sparse or not. A number is said to be a sparse number if in the binary representation of the number no two or more consecutive bits are set.",
+    "link": "https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not/0",
+    "Companys": " ",
+    "Tags": "\n                           Bit Magic                          "
+  },
+  {
+    "Question": "Party of Couples ",
+    "Description": "In a party of N people, each person is denoted by an integer. Couples are represented by the same number. Find out the only singe person in the party of couples.",
+    "link": "https://practice.geeksforgeeks.org/problems/alone-in-couple5507/1",
+    "Companys": "\n                           Ola Cabs                          ",
+    "Tags": "\n                           Bit Magic                          "
+  },
+  {
+    "Question": "Maximum subset XOR ",
+    "Description": "Given a set of positive integers. The task is to complete the function maxSubarrayXOR which returns an integer denoting the maximum XOR subset value in the given set.",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1",
+    "Companys": " ",
+    "Tags": "\n                           Arrays     Bit Magic                          "
+  },
+  {
+    "Question": "Find Missing And Repeating ",
+    "Description": "Given an unsorted array Arr of size N of positive integers. One number 'A' from set {1, 2, …N} is missing and one number 'B' occurs twice in array. Find these two numbers.",
+    "link": "https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1",
+    "Companys": "\n                           Amazon     D-E-Shaw     Goldman Sachs     MAQ Software     Samsung                          ",
+    "Tags": "\n                           Arrays                          "
+  },
+  {
+    "Question": "Maximum Index ",
+    "Description": "Given an array Arr[] of N positive integers. The task is to find the maximum of j - i subjected to the constraint of Arr[i] <= Arr[j].",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-index3307/1",
+    "Companys": "\n                           Amazon     Google     Snapdeal     VMWare                          ",
+    "Tags": "\n                           Arrays                          "
+  },
+  {
+    "Question": "Consecutive 1's not allowed ",
+    "Description": "Given a positive integer N, count all possible distinct binary strings of length N such that there are no consecutive 1’s. Output your answer modulo 10^9 + 7.",
+    "link": "https://practice.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1",
+    "Companys": "\n                           Flipkart     Microsoft     Morgan Stanley     Snapdeal                          ",
+    "Tags": "\n                           Arrays     Dynamic Programming                          "
+  },
+  {
+    "Question": "Majority Element ",
+    "Description": "Given an array A of N elements. Find the majority element in the array. A majority element in an array A of size N is an element that appears more than N/2 times in the array.",
+    "link": "https://practice.geeksforgeeks.org/problems/majority-element/0",
+    "Companys": "\n                           Accolite     Amazon     D-E-Shaw     FactSet     MakeMyTrip     Microsoft     Nagarro     Samsung                          ",
+    "Tags": "\n                           Arrays     Searching                          "
+  },
+  {
+    "Question": "Two numbers with sum closest to zero ",
+    "Description": "Given an integer array of N elements. You need to find the sum of two elements such that sum is closest to zero.",
+    "link": "https://practice.geeksforgeeks.org/problems/two-numbers-with-sum-closest-to-zero1737/1",
+    "Companys": "\n                           Accolite     Amazon     Fab.com     Microsoft     Snapdeal                          ",
+    "Tags": "\n                           Sorting     Two-pointer-algorithm                          "
+  },
+  {
+    "Question": "Nuts and Bolts Problem ",
+    "Description": "Given a set of N nuts of different sizes and N bolts of different sizes. There is a one-one mapping between nuts and bolts. Match nuts and bolts efficiently.",
+    "link": "https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1",
+    "Companys": "\n                           Adobe     Amazon     Hike     MakeMyTrip     MAQ Software                          ",
+    "Tags": "\n                           Arrays     Hash                          "
+  },
+  {
+    "Question": "Boolean Matrix Problem ",
+    "Description": "Given a boolean matrix mat[M][N] of size M X N, modify it such that if a matrix cell mat[i][j] is 1 (or true) then make all the cells of ith row and jth column as 1.",
+    "link": "https://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0",
+    "Companys": "\n                           Amazon     FactSet     Morgan Stanley     Ola Cabs     SAP Labs                          ",
+    "Tags": "\n                           Arrays     Matrix                          "
+  },
+  {
+    "Question": "Smallest Positive missing number ",
+    "Description": "You are given an array arr[] of N integers including 0. The task is to find the smallest positive number missing from the array.\nNote: Expected solution in O(n) time using constant extra space.",
+    "link": "https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/0",
+    "Companys": "\n                           Accolite     Amazon     FactSet     OYO Rooms     Samsung     Snapdeal                          ",
+    "Tags": "\n                           Arrays                          "
+  },
+  {
+    "Question": "Jumping Caterpillars ",
+    "Description": "Given N leaves numbered from 1 to N . A caterpillar at leaf 1, jumps from leaf to leaf in multiples of Aj (Aj, 2Aj, 3Aj).\nj is specific to the caterpillar. Whenever a caterpillar reaches a leaf, it eats it a little bit.. You have to find out how many leaves, from 1 to N, are left uneaten after all K caterpillars have reached the end. Each caterpillar has its own jump factor denoted by Aj, and each caterpillar starts at leaf number 1.",
+    "link": "https://practice.geeksforgeeks.org/problems/jumping-caterpillars/0",
+    "Companys": "\n                           Myntra                          ",
+    "Tags": "\n                           Arrays     Mathematical                          "
+  },
+  {
+    "Question": "Most frequent word in an array of strings ",
+    "Description": "Given an array containing N words consisting of lowercase characters. Your task is to find the most frequent word in the array. If multiple words have same frequency, then print the word whose first occurence occurs last in the array as compared to the other strings with same frequency.",
+    "link": "https://practice.geeksforgeeks.org/problems/most-frequent-word-in-an-array-of-strings/0",
+    "Companys": "\n                           Adobe     Citrix                          ",
+    "Tags": "\n                           Trie                          "
+  },
+  {
+    "Question": "CamelCase Pattern Matching ",
+    "Description": "Given a dictionary of words where each word follows CamelCase notation, print all words in the dictionary that match with a given pattern consisting of uppercase characters only.",
+    "link": "https://practice.geeksforgeeks.org/problems/camelcase-pattern-matching/0",
+    "Companys": "\n                           Ola Cabs                          ",
+    "Tags": "\n                           Strings     Trie                          "
+  },
+  {
+    "Question": "String Ignorance ",
+    "Description": "Given a string of both uppercase and lowercase alphabets, the task is to print the string with alternate occurrences of any character dropped(including space and consider upper and lowercase as same).",
+    "link": "https://practice.geeksforgeeks.org/problems/string-ignorance/0",
+    "Companys": "\n                           Microsoft                          ",
+    "Tags": "\n                           Strings                          "
+  },
+  {
+    "Question": "Smallest window in a string containing all the characters of another string ",
+    "Description": "Given a string S and text T. Output the smallest window in the string S having all characters of the text T. Both the string S and text T contains lowercase english alphabets.",
+    "link": "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0",
+    "Companys": "\n                           Amazon     FactSet     Google     MakeMyTrip     Streamoid Technologies     Visa                          ",
+    "Tags": "\n                           Hash     Sliding-window     Strings                          "
+  },
+  {
+    "Question": "Design a tiny URL or URL shortener ",
+    "Description": "Design a system that takes big URLs like “http://www.geeksforgeeks.org/count-sum-of-digits-in-numbers-from-1-to-n/” and converts them into a short URL. It is given that URLs are stored in database and every URL has an associated integer id.  So your program should take an integer id and generate a URL. ",
+    "link": "https://practice.geeksforgeeks.org/problems/design-a-tiny-url-or-url-shortener2031/1",
+    "Companys": "\n                           Hike     Microsoft                          ",
+    "Tags": "\n                           Arrays     Strings                          "
+  },
+  {
+    "Question": "Permutations of a given string ",
+    "Description": "Given a string S. The task is to print all permutations of a given string.",
+    "link": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
+    "Companys": "\n                           Accolite     Amazon     Cisco     Citrix     MAQ Software     OYO Rooms     Samsung     Snapdeal     Walmart     Zoho                          ",
+    "Tags": "\n                           Recursion     Strings                          "
+  },
+  {
+    "Question": "Non Repeating Character ",
+    "Description": "Given a string S consisting of lowercase Latin Letters. Find the first non repeating character in S.",
+    "link": "https://practice.geeksforgeeks.org/problems/non-repeating-character/0",
+    "Companys": "\n                           Accolite     Amazon     D-E-Shaw     Goldman Sachs     InfoEdge     MakeMyTrip     MAQ Software     Microsoft     Morgan Stanley     OATS Systems     Ola Cabs     OYO Rooms     Payu     Tejas Network     Teradata     Walmart                          ",
+    "Tags": "\n                           Hash     Strings                          "
+  },
+  {
+    "Question": "Check if strings are rotations of each other or not ",
+    "Description": "Given strings s1 and s2, you need to find if s2 is a rotated version of the string s1. The strings are lowercase.",
+    "link": "https://practice.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not/0",
+    "Companys": "\n                           Adobe                          ",
+    "Tags": "\n                           Strings                          "
+  },
+  {
+    "Question": "Save Ironman ",
+    "Description": "Jarvis is weak in computing palindromes for Alphanumeric characters.\nWhile Ironman is busy fighting Thanos, he needs to activate sonic punch but Jarvis is stuck in computing palindromes.\nYou are given a string S containing alphanumeric characters. Find out whether the string is a palindrome or not.\nIf you are unable to solve it then it may result in the death of Iron Man.",
+    "link": "https://practice.geeksforgeeks.org/problems/save-ironman/0",
+    "Companys": "\n                           Amazon     Flipkart     Google                          ",
+    "Tags": "\n                           Arrays     Strings                          "
+  },
+  {
+    "Question": "Repeated Character ",
+    "Description": "Given a string - \"str\", find the repeated character present first in the string.",
+    "link": "https://practice.geeksforgeeks.org/problems/repeated-character/0",
+    "Companys": "\n                           Goldman Sachs                          ",
+    "Tags": "\n                           Hash     Strings                          "
+  },
+  {
+    "Question": "Remove common characters and concatenate ",
+    "Description": "Given two strings s1 and s2. Modify string s1 such that all the common characters of s1 and s2 is to be removed and the uncommon characters of s1 and s2 is to be concatenated.",
+    "link": "https://practice.geeksforgeeks.org/problems/remove-common-characters-and-concatenate/0",
+    "Companys": "\n                           Microsoft                          ",
+    "Tags": "\n                           Strings                          "
+  },
+  {
+    "Question": "Colorful Strings ",
+    "Description": "Find the count of all possible strings of size n.Each character of the string is either ‘R’, ‘B’ or ‘G’. In the final string there needs to be at least r number of ‘R’, at least b number of ‘B’ and at least g number of ‘G’ (such that r + g + b <= n). ",
+    "link": "https://practice.geeksforgeeks.org/problems/geek-and-its-colored-strings1355/1",
+    "Companys": "\n                           Directi                          ",
+    "Tags": "\n                           Permutation     Strings                          "
+  },
+  {
+    "Question": "Second most repeated string in a sequence ",
+    "Description": "Given a sequence of strings, the task is to find out the second most repeated (or frequent) string in the given sequence.",
+    "link": "https://practice.geeksforgeeks.org/problems/second-most-repeated-string-in-a-sequence/0",
+    "Companys": "\n                           Amazon     Goldman Sachs                          ",
+    "Tags": "\n                           Strings                          "
+  },
+  {
+    "Question": "Mirror Tree ",
+    "Description": "Given a Binary Tree, convert it into its mirror.\n\n            ",
+    "link": "https://practice.geeksforgeeks.org/problems/mirror-tree/1",
+    "Companys": "\n                           Accolite     Adobe     Amazon     Belzabar     EBay     Goldman Sachs     Microsoft     Morgan Stanley     Myntra     Ola Cabs     Paytm     PropTiger     Samsung     SAP Labs     Snapdeal     VMWare     Walmart                          ",
+    "Tags": "\n                           Tree                          "
+  },
+  {
+    "Question": "Bottom View of Binary Tree ",
+    "Description": "Given a binary tree, print the bottom view from left to right.\nA node is included in bottom view if it can be seen when we look at the tree from bottom.",
+    "link": "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+    "Companys": "\n                           Accolite     Amazon     CouponDunia     Flipkart     OYO Rooms     Paytm     Walmart                          ",
+    "Tags": "\n                           Tree                          "
+  },
+  {
+    "Question": "Lowest Common Ancestor in a Binary Tree ",
+    "Description": "Given a Binary Tree with all unique values and two nodes value n1 and n2. The task is to find the lowest common ancestor of the given two nodes. We may assume that either both n1 and n2 are present in the tree or none of them is present. ",
+    "link": "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1",
+    "Companys": "\n                           Accolite     Amazon     American Express     Cisco     Expedia     Flipkart     MakeMyTrip     Microsoft     OYO Rooms     PayPal     Payu     Snapdeal     Times Internet     Twitter                          ",
+    "Tags": "\n                           Tree                          "
+  },
+  {
+    "Question": "Binary Tree to DLL ",
+    "Description": "Given a Binary Tree (BT), convert it to a Doubly Linked List(DLL) In-Place. The left and right pointers in nodes are to be used as previous and next pointers respectively in converted DLL. The order of nodes in DLL must be same as Inorder of the given Binary Tree. The first node of Inorder traversal (leftmost node in BT) must be the head node of the DLL.",
+    "link": "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1",
+    "Companys": "\n                           Accolite     Amazon     Goldman Sachs     Microsoft     Morgan Stanley     Salesforce     Snapdeal                          ",
+    "Tags": "\n                           Linked List     Tree                          "
   }
 ]

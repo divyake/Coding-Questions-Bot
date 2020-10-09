@@ -1,21 +1,26 @@
 const puppeteer = require('puppeteer');
-//const { JSDOM } = require('jsdom');
+const { JSDOM } = require('jsdom');
 const fs = require('fs');
 
 
  
 const gfg = async () => {
- const browser = await puppeteer.launch();
+ const browser =await puppeteer.launch({timeout:0})
   const page = await browser.newPage();
-  await page.goto('https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/');
+  await page.goto('https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/', { timeout: 0, waitUntil: 'domcontentloaded' });
   const Questions = await page.evaluate(() => {
     x = []
-    x = Array.from(document.querySelector('#post-152831 > div > ol:nth-child(8)').getElementsByTagName('li'));
-    anchor = x.map( x => (x.querySelector('a')))
+    x = Array.from(document.querySelector('#post-152831 > div').getElementsByTagName('li'));
+      let y = [];
+    for(let i = 14 ; i <= 225 ; i++){
+         y[i] = x[i];
+    }
+
+    anchor = y.map( x => (x.querySelector('a')))
     
     el = anchor.map(anchor => {
       if (anchor != null){
-        return {name : anchor.innerText , link : anchor.href}
+        return { name : anchor.innerText , link : anchor.href}
       }
       else{
         return null
@@ -40,26 +45,29 @@ const quepage = async (list , browser) => {
     let questionList = [];
 
     for (let i = 0 ; i < list.length ; i++) {
-
+  if (list[i] != null){
         console.log(list[i].name)
-       await page.goto(list[i].link);
+        try {
+       await page.goto(list[i].link , { timeout: 0, waitUntil: 'domcontentloaded' });
+       //page.waitForNavigation( { timeout: 0, waitUntil: 'domcontentloaded' });
+     //  page.waitForSelector('#problems > div.problem-intro > div.row.problem-intro__row > span.problem-tab__name')
         const info = await page.evaluate(() => {
 
             const desc = document.querySelector('#problems > div.problem-statement > p:nth-child(2) > span') ? document.querySelector('#problems > div.problem-statement > p:nth-child(2) > span').innerText :  document.querySelector('#problems > div.problem-intro > div.row.problem-intro__row > span.problem-tab__name').innerText
-
+            const comp =  document.querySelector('#companyTags > div') ? document.querySelector('#companyTags > div').innerText : " "
             return {
                 Question : document.querySelector('#problems > div.problem-intro > div.row.problem-intro__row > span.problem-tab__name').innerText,
                 Description : desc,
                 link : window.location.href,
-                Companys : document.querySelector('#companyTags > div').innerText,
+                Companys : comp,
                 Tags : document.querySelector('#topicTags > div').innerText 
             };
         })
 
         questionList.push(info);
-
-      
-
+      } catch(e) { }
+    
+    }
     }
   
 
